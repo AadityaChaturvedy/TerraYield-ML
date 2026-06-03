@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data binaries (DO NOT commit large CSVs or JSON datasets)
+data/raw/
+data/processed/*.csv
+data/processed/*.json
+!data/processed/district_neighbors.json
+!data/processed/clean_india_district_conversion_weights.csv
+
+# Model binaries
+models/*.cbm
+models/*.json
+models/*.txt
+
+# IDEs & System files
+.DS_Store
+.vscode/
+.idea/
+catboost_info/
+
+# Documents & Logs
+*.log
+*.docx
+*.pdf
+~$*.docx
+TerraYield_docx.md
