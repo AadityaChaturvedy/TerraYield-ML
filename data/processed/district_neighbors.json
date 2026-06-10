@@ -1,0 +1,4958 @@
+{
+  "andaman and nicobar|nicobar islands": [],
+  "andaman and nicobar|north and middle andaman": [
+    "andaman and nicobar|south andaman"
+  ],
+  "andaman and nicobar|south andaman": [
+    "andaman and nicobar|north and middle andaman"
+  ],
+  "andhra pradesh|anantapur": [
+    "karnataka|chikballapura",
+    "andhra pradesh|chittoor",
+    "andhra pradesh|y.s.r.",
+    "andhra pradesh|kurnool",
+    "karnataka|tumkur",
+    "karnataka|chitradurga",
+    "karnataka|bellary"
+  ],
+  "andhra pradesh|chittoor": [
+    "tamil nadu|krishnagiri",
+    "karnataka|kolar",
+    "karnataka|chikballapura",
+    "andhra pradesh|anantapur",
+    "tamil nadu|vellore",
+    "tamil nadu|thiruvallur",
+    "andhra pradesh|nellore",
+    "andhra pradesh|y.s.r."
+  ],
+  "andhra pradesh|east godavari": [
+    "puducherry|yanam",
+    "andhra pradesh|west godavari",
+    "telangana|khammam",
+    "andhra pradesh|visakhapatnam",
+    "odisha|malkangiri"
+  ],
+  "andhra pradesh|guntur": [
+    "andhra pradesh|krishna",
+    "andhra pradesh|prakasam",
+    "telangana|nalgonda",
+    "telangana|mahbubnagar"
+  ],
+  "andhra pradesh|krishna": [
+    "andhra pradesh|west godavari",
+    "telangana|khammam",
+    "andhra pradesh|guntur",
+    "telangana|nalgonda"
+  ],
+  "andhra pradesh|kurnool": [
+    "andhra pradesh|anantapur",
+    "andhra pradesh|y.s.r.",
+    "andhra pradesh|prakasam",
+    "telangana|mahbubnagar",
+    "karnataka|bellary",
+    "karnataka|raichur"
+  ],
+  "andhra pradesh|nellore": [
+    "tamil nadu|thiruvallur",
+    "andhra pradesh|chittoor",
+    "andhra pradesh|y.s.r.",
+    "andhra pradesh|prakasam"
+  ],
+  "andhra pradesh|prakasam": [
+    "andhra pradesh|nellore",
+    "andhra pradesh|y.s.r.",
+    "andhra pradesh|guntur",
+    "andhra pradesh|kurnool",
+    "telangana|mahbubnagar"
+  ],
+  "andhra pradesh|srikakulam": [
+    "andhra pradesh|vizianagaram",
+    "odisha|gajapati",
+    "odisha|rayagada",
+    "odisha|ganjam"
+  ],
+  "andhra pradesh|visakhapatnam": [
+    "andhra pradesh|vizianagaram",
+    "andhra pradesh|east godavari",
+    "odisha|malkangiri",
+    "odisha|koraput"
+  ],
+  "andhra pradesh|vizianagaram": [
+    "andhra pradesh|srikakulam",
+    "odisha|rayagada",
+    "andhra pradesh|visakhapatnam",
+    "odisha|koraput"
+  ],
+  "andhra pradesh|west godavari": [
+    "andhra pradesh|krishna",
+    "andhra pradesh|east godavari",
+    "telangana|khammam"
+  ],
+  "andhra pradesh|y.s.r.": [
+    "andhra pradesh|anantapur",
+    "andhra pradesh|chittoor",
+    "andhra pradesh|nellore",
+    "andhra pradesh|prakasam",
+    "andhra pradesh|kurnool"
+  ],
+  "arunachal pradesh|anjaw": [
+    "arunachal pradesh|changlang",
+    "arunachal pradesh|lohit",
+    "arunachal pradesh|lower dibang valley"
+  ],
+  "arunachal pradesh|changlang": [
+    "arunachal pradesh|tirap",
+    "assam|tinsukia",
+    "arunachal pradesh|namsai",
+    "arunachal pradesh|lohit",
+    "arunachal pradesh|anjaw"
+  ],
+  "arunachal pradesh|dibang valley": [
+    "arunachal pradesh|lower dibang valley",
+    "arunachal pradesh|upper siang"
+  ],
+  "arunachal pradesh|east kameng": [
+    "assam|sonitpur",
+    "arunachal pradesh|papum pare",
+    "arunachal pradesh|west kameng",
+    "arunachal pradesh|kurung kumey"
+  ],
+  "arunachal pradesh|east siang": [
+    "assam|dhemaji",
+    "assam|tinsukia",
+    "arunachal pradesh|west siang",
+    "arunachal pradesh|lower dibang valley",
+    "arunachal pradesh|upper siang"
+  ],
+  "arunachal pradesh|kurung kumey": [
+    "arunachal pradesh|papum pare",
+    "arunachal pradesh|east kameng",
+    "arunachal pradesh|west kameng",
+    "arunachal pradesh|lower subansiri",
+    "arunachal pradesh|upper subansiri"
+  ],
+  "arunachal pradesh|lohit": [
+    "arunachal pradesh|changlang",
+    "assam|tinsukia",
+    "arunachal pradesh|namsai",
+    "arunachal pradesh|anjaw",
+    "arunachal pradesh|lower dibang valley"
+  ],
+  "arunachal pradesh|longding": [
+    "nagaland|mon",
+    "assam|sivasagar",
+    "arunachal pradesh|tirap",
+    "assam|dibrugarh"
+  ],
+  "arunachal pradesh|lower dibang valley": [
+    "assam|dhemaji",
+    "assam|tinsukia",
+    "arunachal pradesh|lohit",
+    "arunachal pradesh|anjaw",
+    "arunachal pradesh|east siang",
+    "arunachal pradesh|upper siang",
+    "arunachal pradesh|dibang valley"
+  ],
+  "arunachal pradesh|lower subansiri": [
+    "assam|lakhimpur",
+    "arunachal pradesh|papum pare",
+    "assam|dhemaji",
+    "arunachal pradesh|kurung kumey",
+    "arunachal pradesh|upper subansiri",
+    "arunachal pradesh|west siang"
+  ],
+  "arunachal pradesh|namsai": [
+    "arunachal pradesh|changlang",
+    "assam|tinsukia",
+    "arunachal pradesh|lohit"
+  ],
+  "arunachal pradesh|papum pare": [
+    "assam|sonitpur",
+    "assam|lakhimpur",
+    "arunachal pradesh|east kameng",
+    "arunachal pradesh|lower subansiri",
+    "arunachal pradesh|kurung kumey"
+  ],
+  "arunachal pradesh|tawang": [
+    "arunachal pradesh|west kameng"
+  ],
+  "arunachal pradesh|tirap": [
+    "arunachal pradesh|longding",
+    "arunachal pradesh|changlang",
+    "assam|dibrugarh",
+    "assam|tinsukia"
+  ],
+  "arunachal pradesh|upper siang": [
+    "arunachal pradesh|east siang",
+    "arunachal pradesh|west siang",
+    "arunachal pradesh|lower dibang valley",
+    "arunachal pradesh|dibang valley"
+  ],
+  "arunachal pradesh|upper subansiri": [
+    "arunachal pradesh|lower subansiri",
+    "arunachal pradesh|kurung kumey",
+    "arunachal pradesh|west siang"
+  ],
+  "arunachal pradesh|west kameng": [
+    "assam|udalguri",
+    "assam|sonitpur",
+    "arunachal pradesh|east kameng",
+    "arunachal pradesh|tawang",
+    "arunachal pradesh|kurung kumey"
+  ],
+  "arunachal pradesh|west siang": [
+    "assam|dhemaji",
+    "arunachal pradesh|lower subansiri",
+    "arunachal pradesh|east siang",
+    "arunachal pradesh|upper subansiri",
+    "arunachal pradesh|upper siang"
+  ],
+  "assam|baksa": [
+    "assam|kamrup",
+    "assam|bongaigaon",
+    "assam|darrang",
+    "assam|udalguri",
+    "assam|nalbari",
+    "assam|barpeta",
+    "assam|chirang"
+  ],
+  "assam|barpeta": [
+    "assam|goalpara",
+    "assam|kamrup",
+    "assam|bongaigaon",
+    "assam|nalbari",
+    "assam|chirang",
+    "assam|baksa"
+  ],
+  "assam|bongaigaon": [
+    "assam|dhubri",
+    "assam|goalpara",
+    "assam|barpeta",
+    "assam|chirang",
+    "assam|kokrajhar",
+    "assam|baksa"
+  ],
+  "assam|cachar": [
+    "mizoram|aizawl",
+    "mizoram|kolasib",
+    "manipur|churachandpur",
+    "assam|hailakandi",
+    "assam|karimganj",
+    "manipur|imphal east",
+    "manipur|tamenglong",
+    "meghalaya|jaintia hills",
+    "assam|dima hasao"
+  ],
+  "assam|chirang": [
+    "assam|bongaigaon",
+    "assam|barpeta",
+    "assam|kokrajhar",
+    "assam|baksa"
+  ],
+  "assam|darrang": [
+    "assam|kamrup metropolitan",
+    "assam|kamrup",
+    "assam|morigaon",
+    "assam|udalguri",
+    "assam|sonitpur",
+    "assam|baksa"
+  ],
+  "assam|dhemaji": [
+    "assam|lakhimpur",
+    "assam|dibrugarh",
+    "assam|tinsukia",
+    "arunachal pradesh|lower subansiri",
+    "arunachal pradesh|east siang",
+    "arunachal pradesh|west siang",
+    "arunachal pradesh|lower dibang valley"
+  ],
+  "assam|dhubri": [
+    "meghalaya|south west garo hills",
+    "meghalaya|west garo hills",
+    "assam|goalpara",
+    "west bengal|koch bihar",
+    "assam|bongaigaon",
+    "assam|kokrajhar"
+  ],
+  "assam|dibrugarh": [
+    "assam|jorhat",
+    "arunachal pradesh|longding",
+    "assam|sivasagar",
+    "arunachal pradesh|tirap",
+    "assam|lakhimpur",
+    "assam|dhemaji",
+    "assam|tinsukia"
+  ],
+  "assam|dima hasao": [
+    "assam|cachar",
+    "manipur|tamenglong",
+    "meghalaya|jaintia hills",
+    "nagaland|peren",
+    "assam|karbi anglong",
+    "assam|nagaon"
+  ],
+  "assam|goalpara": [
+    "meghalaya|west garo hills",
+    "meghalaya|east garo hills",
+    "meghalaya|north garo hills",
+    "assam|dhubri",
+    "assam|kamrup",
+    "assam|bongaigaon",
+    "assam|barpeta"
+  ],
+  "assam|golaghat": [
+    "nagaland|kohima",
+    "nagaland|dimapur",
+    "assam|karbi anglong",
+    "assam|nagaon",
+    "nagaland|wokha",
+    "assam|sonitpur",
+    "assam|jorhat",
+    "assam|lakhimpur"
+  ],
+  "assam|hailakandi": [
+    "mizoram|mamit",
+    "mizoram|kolasib",
+    "assam|karimganj",
+    "assam|cachar"
+  ],
+  "assam|jorhat": [
+    "nagaland|wokha",
+    "assam|golaghat",
+    "nagaland|mokokchung",
+    "assam|sivasagar",
+    "assam|lakhimpur",
+    "assam|dibrugarh"
+  ],
+  "assam|kamrup": [
+    "meghalaya|west khasi hills",
+    "meghalaya|east garo hills",
+    "meghalaya|ri bhoi",
+    "assam|kamrup metropolitan",
+    "assam|goalpara",
+    "assam|darrang",
+    "assam|udalguri",
+    "assam|nalbari",
+    "assam|barpeta",
+    "assam|baksa"
+  ],
+  "assam|kamrup metropolitan": [
+    "meghalaya|ri bhoi",
+    "assam|kamrup",
+    "assam|morigaon",
+    "assam|darrang"
+  ],
+  "assam|karbi anglong": [
+    "meghalaya|jaintia hills",
+    "assam|dima hasao",
+    "meghalaya|east khasi hills",
+    "nagaland|peren",
+    "nagaland|dimapur",
+    "meghalaya|ri bhoi",
+    "assam|nagaon",
+    "assam|morigaon",
+    "assam|golaghat"
+  ],
+  "assam|karimganj": [
+    "mizoram|mamit",
+    "tripura|north tripura",
+    "assam|hailakandi",
+    "assam|cachar"
+  ],
+  "assam|kokrajhar": [
+    "assam|dhubri",
+    "west bengal|koch bihar",
+    "assam|bongaigaon",
+    "assam|chirang",
+    "west bengal|alipurduar"
+  ],
+  "assam|lakhimpur": [
+    "assam|golaghat",
+    "assam|sonitpur",
+    "assam|jorhat",
+    "arunachal pradesh|papum pare",
+    "assam|dibrugarh",
+    "assam|dhemaji",
+    "arunachal pradesh|lower subansiri"
+  ],
+  "assam|morigaon": [
+    "meghalaya|ri bhoi",
+    "assam|karbi anglong",
+    "assam|kamrup metropolitan",
+    "assam|nagaon",
+    "assam|darrang",
+    "assam|sonitpur"
+  ],
+  "assam|nagaon": [
+    "assam|dima hasao",
+    "assam|karbi anglong",
+    "assam|morigaon",
+    "assam|golaghat",
+    "assam|sonitpur"
+  ],
+  "assam|nalbari": [
+    "assam|kamrup",
+    "assam|barpeta",
+    "assam|baksa"
+  ],
+  "assam|sivasagar": [
+    "nagaland|mokokchung",
+    "nagaland|longleng",
+    "nagaland|mon",
+    "assam|jorhat",
+    "arunachal pradesh|longding",
+    "assam|dibrugarh"
+  ],
+  "assam|sonitpur": [
+    "assam|nagaon",
+    "assam|morigaon",
+    "assam|golaghat",
+    "assam|darrang",
+    "assam|udalguri",
+    "assam|lakhimpur",
+    "arunachal pradesh|papum pare",
+    "arunachal pradesh|east kameng",
+    "arunachal pradesh|west kameng"
+  ],
+  "assam|tinsukia": [
+    "arunachal pradesh|tirap",
+    "arunachal pradesh|changlang",
+    "assam|dibrugarh",
+    "assam|dhemaji",
+    "arunachal pradesh|namsai",
+    "arunachal pradesh|lohit",
+    "arunachal pradesh|east siang",
+    "arunachal pradesh|lower dibang valley"
+  ],
+  "assam|udalguri": [
+    "assam|kamrup",
+    "assam|darrang",
+    "assam|sonitpur",
+    "assam|baksa",
+    "arunachal pradesh|west kameng"
+  ],
+  "bihar|araria": [
+    "bihar|purnia",
+    "bihar|madhepura",
+    "bihar|kishanganj",
+    "bihar|supaul"
+  ],
+  "bihar|arwal": [
+    "bihar|gaya",
+    "bihar|aurangabad",
+    "bihar|rohtas",
+    "bihar|jehanabad",
+    "bihar|bhojpur",
+    "bihar|patna"
+  ],
+  "bihar|aurangabad": [
+    "jharkhand|palamu",
+    "bihar|gaya",
+    "bihar|rohtas",
+    "bihar|arwal"
+  ],
+  "bihar|banka": [
+    "jharkhand|dumka",
+    "jharkhand|deoghar",
+    "bihar|jamui",
+    "jharkhand|godda",
+    "bihar|munger",
+    "bihar|bhagalpur"
+  ],
+  "bihar|begusarai": [
+    "bihar|lakhisarai",
+    "bihar|munger",
+    "bihar|patna",
+    "bihar|samastipur",
+    "bihar|khagaria"
+  ],
+  "bihar|bhagalpur": [
+    "bihar|banka",
+    "jharkhand|godda",
+    "jharkhand|sahibganj",
+    "bihar|munger",
+    "bihar|khagaria",
+    "bihar|katihar",
+    "bihar|purnia",
+    "bihar|madhepura"
+  ],
+  "bihar|bhojpur": [
+    "bihar|rohtas",
+    "bihar|arwal",
+    "bihar|patna",
+    "bihar|buxar",
+    "uttar pradesh|ballia",
+    "bihar|saran"
+  ],
+  "bihar|buxar": [
+    "bihar|rohtas",
+    "bihar|kaimur",
+    "bihar|bhojpur",
+    "uttar pradesh|ghazipur",
+    "uttar pradesh|ballia"
+  ],
+  "bihar|darbhanga": [
+    "bihar|samastipur",
+    "bihar|saharsa",
+    "bihar|muzaffarpur",
+    "bihar|madhubani",
+    "bihar|sitamarhi"
+  ],
+  "bihar|gaya": [
+    "jharkhand|chatra",
+    "jharkhand|hazaribagh",
+    "jharkhand|palamu",
+    "bihar|aurangabad",
+    "bihar|nawada",
+    "bihar|jehanabad",
+    "bihar|arwal",
+    "bihar|nalanda"
+  ],
+  "bihar|gopalganj": [
+    "bihar|saran",
+    "bihar|siwan",
+    "bihar|muzaffarpur",
+    "uttar pradesh|deoria",
+    "bihar|purba champaran",
+    "uttar pradesh|kushinagar",
+    "bihar|pashchim champaran"
+  ],
+  "bihar|jamui": [
+    "jharkhand|deoghar",
+    "jharkhand|giridih",
+    "bihar|nawada",
+    "bihar|sheikhpura",
+    "bihar|banka",
+    "bihar|lakhisarai",
+    "bihar|munger"
+  ],
+  "bihar|jehanabad": [
+    "bihar|gaya",
+    "bihar|arwal",
+    "bihar|nalanda",
+    "bihar|patna"
+  ],
+  "bihar|kaimur": [
+    "uttar pradesh|sonbhadra",
+    "bihar|rohtas",
+    "uttar pradesh|chandauli",
+    "bihar|buxar",
+    "uttar pradesh|ghazipur"
+  ],
+  "bihar|katihar": [
+    "jharkhand|sahibganj",
+    "west bengal|maldah",
+    "bihar|bhagalpur",
+    "bihar|purnia",
+    "west bengal|uttar dinajpur"
+  ],
+  "bihar|khagaria": [
+    "bihar|munger",
+    "bihar|bhagalpur",
+    "bihar|samastipur",
+    "bihar|begusarai",
+    "bihar|madhepura",
+    "bihar|saharsa"
+  ],
+  "bihar|kishanganj": [
+    "bihar|purnia",
+    "west bengal|uttar dinajpur",
+    "bihar|araria",
+    "west bengal|darjiling"
+  ],
+  "bihar|lakhisarai": [
+    "bihar|jamui",
+    "bihar|sheikhpura",
+    "bihar|munger",
+    "bihar|nalanda",
+    "bihar|patna",
+    "bihar|begusarai"
+  ],
+  "bihar|madhepura": [
+    "bihar|bhagalpur",
+    "bihar|khagaria",
+    "bihar|purnia",
+    "bihar|saharsa",
+    "bihar|araria",
+    "bihar|supaul"
+  ],
+  "bihar|madhubani": [
+    "bihar|saharsa",
+    "bihar|supaul",
+    "bihar|darbhanga",
+    "bihar|sitamarhi"
+  ],
+  "bihar|munger": [
+    "bihar|jamui",
+    "bihar|banka",
+    "bihar|lakhisarai",
+    "bihar|bhagalpur",
+    "bihar|khagaria",
+    "bihar|begusarai"
+  ],
+  "bihar|muzaffarpur": [
+    "bihar|vaishali",
+    "bihar|samastipur",
+    "bihar|saran",
+    "bihar|darbhanga",
+    "bihar|gopalganj",
+    "bihar|sheohar",
+    "bihar|purba champaran",
+    "bihar|sitamarhi"
+  ],
+  "bihar|nalanda": [
+    "bihar|gaya",
+    "bihar|nawada",
+    "bihar|sheikhpura",
+    "bihar|lakhisarai",
+    "bihar|jehanabad",
+    "bihar|patna"
+  ],
+  "bihar|nawada": [
+    "jharkhand|hazaribagh",
+    "bihar|jamui",
+    "jharkhand|giridih",
+    "jharkhand|kodarma",
+    "bihar|gaya",
+    "bihar|sheikhpura",
+    "bihar|nalanda"
+  ],
+  "bihar|pashchim champaran": [
+    "bihar|gopalganj",
+    "bihar|purba champaran",
+    "uttar pradesh|kushinagar",
+    "uttar pradesh|maharajganj"
+  ],
+  "bihar|patna": [
+    "bihar|lakhisarai",
+    "bihar|jehanabad",
+    "bihar|arwal",
+    "bihar|nalanda",
+    "bihar|bhojpur",
+    "bihar|vaishali",
+    "bihar|samastipur",
+    "bihar|begusarai",
+    "bihar|saran"
+  ],
+  "bihar|purba champaran": [
+    "bihar|muzaffarpur",
+    "bihar|gopalganj",
+    "bihar|sheohar",
+    "bihar|pashchim champaran",
+    "bihar|sitamarhi"
+  ],
+  "bihar|purnia": [
+    "bihar|bhagalpur",
+    "bihar|katihar",
+    "bihar|madhepura",
+    "west bengal|uttar dinajpur",
+    "bihar|kishanganj",
+    "bihar|araria"
+  ],
+  "bihar|rohtas": [
+    "jharkhand|garhwa",
+    "jharkhand|palamu",
+    "uttar pradesh|sonbhadra",
+    "bihar|aurangabad",
+    "bihar|kaimur",
+    "bihar|arwal",
+    "bihar|bhojpur",
+    "bihar|buxar"
+  ],
+  "bihar|saharsa": [
+    "bihar|samastipur",
+    "bihar|khagaria",
+    "bihar|madhepura",
+    "bihar|supaul",
+    "bihar|darbhanga",
+    "bihar|madhubani"
+  ],
+  "bihar|samastipur": [
+    "bihar|patna",
+    "bihar|vaishali",
+    "bihar|khagaria",
+    "bihar|begusarai",
+    "bihar|saharsa",
+    "bihar|muzaffarpur",
+    "bihar|darbhanga"
+  ],
+  "bihar|saran": [
+    "bihar|bhojpur",
+    "bihar|patna",
+    "bihar|vaishali",
+    "uttar pradesh|ballia",
+    "bihar|siwan",
+    "bihar|muzaffarpur",
+    "bihar|gopalganj"
+  ],
+  "bihar|sheikhpura": [
+    "bihar|jamui",
+    "bihar|nawada",
+    "bihar|lakhisarai",
+    "bihar|nalanda"
+  ],
+  "bihar|sheohar": [
+    "bihar|muzaffarpur",
+    "bihar|purba champaran",
+    "bihar|sitamarhi"
+  ],
+  "bihar|sitamarhi": [
+    "bihar|muzaffarpur",
+    "bihar|darbhanga",
+    "bihar|sheohar",
+    "bihar|purba champaran",
+    "bihar|madhubani"
+  ],
+  "bihar|siwan": [
+    "uttar pradesh|ballia",
+    "bihar|saran",
+    "bihar|gopalganj",
+    "uttar pradesh|deoria"
+  ],
+  "bihar|supaul": [
+    "bihar|madhepura",
+    "bihar|saharsa",
+    "bihar|araria",
+    "bihar|madhubani"
+  ],
+  "bihar|vaishali": [
+    "bihar|patna",
+    "bihar|samastipur",
+    "bihar|saran",
+    "bihar|muzaffarpur"
+  ],
+  "chandigarh|chandigarh": [
+    "punjab|sahibzada ajit singh nagar",
+    "haryana|panchkula"
+  ],
+  "chhattisgarh|balod": [
+    "chhattisgarh|uttar bastar kanker",
+    "chhattisgarh|dhamtari",
+    "chhattisgarh|rajnandgaon",
+    "chhattisgarh|durg"
+  ],
+  "chhattisgarh|baloda bazar": [
+    "chhattisgarh|raigarh",
+    "chhattisgarh|mahasamund",
+    "chhattisgarh|raipur",
+    "chhattisgarh|bemetara",
+    "chhattisgarh|janjgir-champa",
+    "chhattisgarh|mungeli",
+    "chhattisgarh|bilaspur"
+  ],
+  "chhattisgarh|balrampur": [
+    "chhattisgarh|jashpur",
+    "chhattisgarh|surguja",
+    "jharkhand|gumla",
+    "jharkhand|latehar",
+    "jharkhand|garhwa",
+    "uttar pradesh|sonbhadra",
+    "chhattisgarh|surajpur",
+    "madhya pradesh|singrauli"
+  ],
+  "chhattisgarh|bastar": [
+    "chhattisgarh|sukma",
+    "odisha|malkangiri",
+    "odisha|koraput",
+    "chhattisgarh|dantewada",
+    "chhattisgarh|narayanpur",
+    "odisha|nabarangapur",
+    "chhattisgarh|kondagaon"
+  ],
+  "chhattisgarh|bemetara": [
+    "chhattisgarh|rajnandgaon",
+    "chhattisgarh|durg",
+    "chhattisgarh|raipur",
+    "chhattisgarh|baloda bazar",
+    "chhattisgarh|kabeerdham",
+    "chhattisgarh|mungeli"
+  ],
+  "chhattisgarh|bijapur": [
+    "telangana|khammam",
+    "chhattisgarh|sukma",
+    "telangana|warangal",
+    "telangana|karimnagar",
+    "chhattisgarh|dantewada",
+    "chhattisgarh|narayanpur",
+    "maharashtra|garhchiroli"
+  ],
+  "chhattisgarh|bilaspur": [
+    "chhattisgarh|baloda bazar",
+    "chhattisgarh|janjgir-champa",
+    "chhattisgarh|mungeli",
+    "chhattisgarh|korba",
+    "madhya pradesh|dindori",
+    "madhya pradesh|anuppur",
+    "chhattisgarh|koriya",
+    "madhya pradesh|shahdol"
+  ],
+  "chhattisgarh|dantewada": [
+    "chhattisgarh|sukma",
+    "chhattisgarh|bijapur",
+    "chhattisgarh|bastar",
+    "chhattisgarh|narayanpur"
+  ],
+  "chhattisgarh|dhamtari": [
+    "odisha|nabarangapur",
+    "chhattisgarh|kondagaon",
+    "chhattisgarh|uttar bastar kanker",
+    "chhattisgarh|gariaband",
+    "chhattisgarh|balod",
+    "chhattisgarh|durg",
+    "chhattisgarh|raipur"
+  ],
+  "chhattisgarh|durg": [
+    "chhattisgarh|dhamtari",
+    "chhattisgarh|balod",
+    "chhattisgarh|rajnandgaon",
+    "chhattisgarh|raipur",
+    "chhattisgarh|bemetara"
+  ],
+  "chhattisgarh|gariaband": [
+    "odisha|kalahandi",
+    "odisha|nabarangapur",
+    "chhattisgarh|dhamtari",
+    "odisha|nuapada",
+    "chhattisgarh|mahasamund",
+    "chhattisgarh|raipur"
+  ],
+  "chhattisgarh|janjgir-champa": [
+    "chhattisgarh|raigarh",
+    "chhattisgarh|baloda bazar",
+    "chhattisgarh|bilaspur",
+    "chhattisgarh|korba"
+  ],
+  "chhattisgarh|jashpur": [
+    "odisha|sundargarh",
+    "chhattisgarh|raigarh",
+    "jharkhand|simdega",
+    "chhattisgarh|surguja",
+    "jharkhand|gumla",
+    "chhattisgarh|balrampur"
+  ],
+  "chhattisgarh|kabeerdham": [
+    "chhattisgarh|rajnandgaon",
+    "chhattisgarh|bemetara",
+    "madhya pradesh|balaghat",
+    "chhattisgarh|mungeli",
+    "madhya pradesh|dindori"
+  ],
+  "chhattisgarh|kondagaon": [
+    "chhattisgarh|bastar",
+    "chhattisgarh|narayanpur",
+    "odisha|nabarangapur",
+    "chhattisgarh|uttar bastar kanker",
+    "chhattisgarh|dhamtari"
+  ],
+  "chhattisgarh|korba": [
+    "chhattisgarh|raigarh",
+    "chhattisgarh|surguja",
+    "chhattisgarh|janjgir-champa",
+    "chhattisgarh|bilaspur",
+    "chhattisgarh|surajpur",
+    "chhattisgarh|koriya"
+  ],
+  "chhattisgarh|koriya": [
+    "chhattisgarh|bilaspur",
+    "chhattisgarh|korba",
+    "madhya pradesh|anuppur",
+    "chhattisgarh|surajpur",
+    "madhya pradesh|shahdol",
+    "madhya pradesh|sidhi",
+    "madhya pradesh|singrauli"
+  ],
+  "chhattisgarh|mahasamund": [
+    "odisha|bargarh",
+    "chhattisgarh|raigarh",
+    "chhattisgarh|gariaband",
+    "odisha|nuapada",
+    "chhattisgarh|raipur",
+    "chhattisgarh|baloda bazar"
+  ],
+  "chhattisgarh|mungeli": [
+    "chhattisgarh|baloda bazar",
+    "chhattisgarh|bemetara",
+    "chhattisgarh|kabeerdham",
+    "chhattisgarh|bilaspur",
+    "madhya pradesh|dindori",
+    "madhya pradesh|shahdol"
+  ],
+  "chhattisgarh|narayanpur": [
+    "chhattisgarh|bijapur",
+    "chhattisgarh|dantewada",
+    "chhattisgarh|bastar",
+    "chhattisgarh|kondagaon",
+    "maharashtra|garhchiroli",
+    "chhattisgarh|uttar bastar kanker"
+  ],
+  "chhattisgarh|raigarh": [
+    "odisha|bargarh",
+    "odisha|jharsuguda",
+    "odisha|sundargarh",
+    "chhattisgarh|jashpur",
+    "chhattisgarh|surguja",
+    "chhattisgarh|mahasamund",
+    "chhattisgarh|baloda bazar",
+    "chhattisgarh|janjgir-champa",
+    "chhattisgarh|korba"
+  ],
+  "chhattisgarh|raipur": [
+    "chhattisgarh|gariaband",
+    "chhattisgarh|dhamtari",
+    "chhattisgarh|durg",
+    "chhattisgarh|mahasamund",
+    "chhattisgarh|baloda bazar",
+    "chhattisgarh|bemetara"
+  ],
+  "chhattisgarh|rajnandgaon": [
+    "maharashtra|bhandara",
+    "maharashtra|garhchiroli",
+    "chhattisgarh|uttar bastar kanker",
+    "chhattisgarh|balod",
+    "chhattisgarh|durg",
+    "chhattisgarh|bemetara",
+    "madhya pradesh|balaghat",
+    "chhattisgarh|kabeerdham",
+    "maharashtra|gondiya"
+  ],
+  "chhattisgarh|sukma": [
+    "telangana|khammam",
+    "odisha|malkangiri",
+    "chhattisgarh|bijapur",
+    "chhattisgarh|dantewada",
+    "chhattisgarh|bastar"
+  ],
+  "chhattisgarh|surajpur": [
+    "chhattisgarh|surguja",
+    "chhattisgarh|balrampur",
+    "chhattisgarh|korba",
+    "chhattisgarh|koriya",
+    "madhya pradesh|singrauli"
+  ],
+  "chhattisgarh|surguja": [
+    "chhattisgarh|raigarh",
+    "chhattisgarh|jashpur",
+    "chhattisgarh|balrampur",
+    "chhattisgarh|korba",
+    "chhattisgarh|surajpur"
+  ],
+  "chhattisgarh|uttar bastar kanker": [
+    "chhattisgarh|narayanpur",
+    "chhattisgarh|kondagaon",
+    "maharashtra|garhchiroli",
+    "chhattisgarh|dhamtari",
+    "chhattisgarh|balod",
+    "chhattisgarh|rajnandgaon"
+  ],
+  "dadra and nagar haveli|dadra and nagar haveli": [
+    "maharashtra|palghar",
+    "gujarat|valsad"
+  ],
+  "daman and diu|daman": [
+    "gujarat|valsad"
+  ],
+  "daman and diu|diu": [
+    "gujarat|gir somnath",
+    "gujarat|junagadh"
+  ],
+  "goa|north goa": [
+    "karnataka|uttara kannada",
+    "goa|south goa",
+    "maharashtra|sindhudurg",
+    "karnataka|belgaum"
+  ],
+  "goa|south goa": [
+    "karnataka|uttara kannada",
+    "goa|north goa"
+  ],
+  "gujarat|ahmadabad": [
+    "gujarat|bhavnagar",
+    "gujarat|botad",
+    "gujarat|anand",
+    "gujarat|surendranagar",
+    "gujarat|kheda",
+    "gujarat|gandhinagar",
+    "gujarat|mahesana"
+  ],
+  "gujarat|amreli": [
+    "gujarat|junagadh",
+    "gujarat|bhavnagar",
+    "gujarat|botad",
+    "gujarat|rajkot"
+  ],
+  "gujarat|anand": [
+    "gujarat|bhavnagar",
+    "gujarat|vadodara",
+    "gujarat|ahmadabad",
+    "gujarat|kheda"
+  ],
+  "gujarat|aravalli": [
+    "gujarat|kheda",
+    "gujarat|gandhinagar",
+    "gujarat|mahisagar",
+    "rajasthan|dungarpur",
+    "gujarat|sabar kantha",
+    "rajasthan|udaipur"
+  ],
+  "gujarat|banas kantha": [
+    "gujarat|mahesana",
+    "gujarat|kachchh",
+    "gujarat|patan",
+    "gujarat|sabar kantha",
+    "rajasthan|sirohi",
+    "rajasthan|jalor"
+  ],
+  "gujarat|bharuch": [
+    "gujarat|surat",
+    "gujarat|narmada",
+    "gujarat|vadodara"
+  ],
+  "gujarat|bhavnagar": [
+    "gujarat|amreli",
+    "gujarat|botad",
+    "gujarat|anand",
+    "gujarat|ahmadabad"
+  ],
+  "gujarat|botad": [
+    "gujarat|amreli",
+    "gujarat|bhavnagar",
+    "gujarat|rajkot",
+    "gujarat|ahmadabad",
+    "gujarat|surendranagar"
+  ],
+  "gujarat|chhota udaipur": [
+    "maharashtra|nandurbar",
+    "gujarat|narmada",
+    "madhya pradesh|alirajpur",
+    "gujarat|vadodara",
+    "gujarat|panch mahals",
+    "gujarat|dahod"
+  ],
+  "gujarat|dahod": [
+    "gujarat|chhota udaipur",
+    "madhya pradesh|alirajpur",
+    "gujarat|panch mahals",
+    "gujarat|mahisagar",
+    "madhya pradesh|jhabua",
+    "rajasthan|banswara"
+  ],
+  "gujarat|devbhumi dwarka": [
+    "gujarat|porbandar",
+    "gujarat|jamnagar"
+  ],
+  "gujarat|gandhinagar": [
+    "gujarat|ahmadabad",
+    "gujarat|kheda",
+    "gujarat|aravalli",
+    "gujarat|mahesana",
+    "gujarat|sabar kantha"
+  ],
+  "gujarat|gir somnath": [
+    "daman and diu|diu",
+    "gujarat|junagadh"
+  ],
+  "gujarat|jamnagar": [
+    "gujarat|porbandar",
+    "gujarat|rajkot",
+    "gujarat|devbhumi dwarka",
+    "gujarat|morbi",
+    "gujarat|kachchh"
+  ],
+  "gujarat|junagadh": [
+    "daman and diu|diu",
+    "gujarat|gir somnath",
+    "gujarat|amreli",
+    "gujarat|porbandar",
+    "gujarat|rajkot"
+  ],
+  "gujarat|kachchh": [
+    "gujarat|jamnagar",
+    "gujarat|morbi",
+    "gujarat|surendranagar",
+    "gujarat|patan",
+    "gujarat|banas kantha",
+    "rajasthan|jalor",
+    "rajasthan|barmer"
+  ],
+  "gujarat|kheda": [
+    "gujarat|vadodara",
+    "gujarat|anand",
+    "gujarat|panch mahals",
+    "gujarat|ahmadabad",
+    "gujarat|gandhinagar",
+    "gujarat|mahisagar",
+    "gujarat|aravalli"
+  ],
+  "gujarat|mahesana": [
+    "gujarat|ahmadabad",
+    "gujarat|surendranagar",
+    "gujarat|gandhinagar",
+    "gujarat|patan",
+    "gujarat|sabar kantha",
+    "gujarat|banas kantha"
+  ],
+  "gujarat|mahisagar": [
+    "gujarat|panch mahals",
+    "gujarat|dahod",
+    "gujarat|kheda",
+    "gujarat|aravalli",
+    "rajasthan|banswara",
+    "rajasthan|dungarpur"
+  ],
+  "gujarat|morbi": [
+    "gujarat|rajkot",
+    "gujarat|jamnagar",
+    "gujarat|surendranagar",
+    "gujarat|kachchh"
+  ],
+  "gujarat|narmada": [
+    "gujarat|surat",
+    "gujarat|tapi",
+    "maharashtra|nandurbar",
+    "gujarat|bharuch",
+    "gujarat|chhota udaipur",
+    "gujarat|vadodara"
+  ],
+  "gujarat|navsari": [
+    "maharashtra|nashik",
+    "gujarat|valsad",
+    "gujarat|the dangs",
+    "gujarat|surat",
+    "gujarat|tapi"
+  ],
+  "gujarat|panch mahals": [
+    "gujarat|chhota udaipur",
+    "gujarat|vadodara",
+    "gujarat|dahod",
+    "gujarat|kheda",
+    "gujarat|mahisagar"
+  ],
+  "gujarat|patan": [
+    "gujarat|surendranagar",
+    "gujarat|mahesana",
+    "gujarat|kachchh",
+    "gujarat|banas kantha"
+  ],
+  "gujarat|porbandar": [
+    "gujarat|junagadh",
+    "gujarat|rajkot",
+    "gujarat|devbhumi dwarka",
+    "gujarat|jamnagar"
+  ],
+  "gujarat|rajkot": [
+    "gujarat|junagadh",
+    "gujarat|amreli",
+    "gujarat|porbandar",
+    "gujarat|botad",
+    "gujarat|jamnagar",
+    "gujarat|morbi",
+    "gujarat|surendranagar"
+  ],
+  "gujarat|sabar kantha": [
+    "gujarat|gandhinagar",
+    "gujarat|aravalli",
+    "gujarat|mahesana",
+    "gujarat|banas kantha",
+    "rajasthan|udaipur",
+    "rajasthan|sirohi"
+  ],
+  "gujarat|surat": [
+    "gujarat|navsari",
+    "gujarat|tapi",
+    "gujarat|narmada",
+    "gujarat|bharuch"
+  ],
+  "gujarat|surendranagar": [
+    "gujarat|botad",
+    "gujarat|rajkot",
+    "gujarat|ahmadabad",
+    "gujarat|morbi",
+    "gujarat|mahesana",
+    "gujarat|kachchh",
+    "gujarat|patan"
+  ],
+  "gujarat|tapi": [
+    "gujarat|the dangs",
+    "gujarat|navsari",
+    "maharashtra|dhule",
+    "gujarat|surat",
+    "maharashtra|nandurbar",
+    "gujarat|narmada"
+  ],
+  "gujarat|the dangs": [
+    "maharashtra|nashik",
+    "gujarat|navsari",
+    "maharashtra|dhule",
+    "gujarat|tapi"
+  ],
+  "gujarat|vadodara": [
+    "gujarat|narmada",
+    "gujarat|bharuch",
+    "gujarat|chhota udaipur",
+    "gujarat|anand",
+    "gujarat|panch mahals",
+    "gujarat|kheda"
+  ],
+  "gujarat|valsad": [
+    "maharashtra|palghar",
+    "dadra and nagar haveli|dadra and nagar haveli",
+    "maharashtra|nashik",
+    "daman and diu|daman",
+    "gujarat|navsari"
+  ],
+  "haryana|ambala": [
+    "haryana|kurukshetra",
+    "punjab|patiala",
+    "punjab|sahibzada ajit singh nagar",
+    "haryana|panchkula",
+    "haryana|yamunanagar",
+    "himachal pradesh|sirmaur"
+  ],
+  "haryana|bhiwani": [
+    "rajasthan|jhunjhunun",
+    "rajasthan|churu",
+    "haryana|mahendragarh",
+    "haryana|jhajjar",
+    "haryana|rohtak",
+    "haryana|hisar",
+    "rajasthan|hanumangarh"
+  ],
+  "haryana|faridabad": [
+    "haryana|mewat",
+    "haryana|palwal",
+    "uttar pradesh|gautam buddha nagar",
+    "haryana|gurgaon",
+    "nct of delhi|west"
+  ],
+  "haryana|fatehabad": [
+    "haryana|jind",
+    "haryana|hisar",
+    "rajasthan|hanumangarh",
+    "haryana|sirsa",
+    "punjab|mansa",
+    "punjab|sangrur"
+  ],
+  "haryana|gurgaon": [
+    "haryana|mewat",
+    "haryana|palwal",
+    "haryana|faridabad",
+    "haryana|rewari",
+    "haryana|jhajjar",
+    "nct of delhi|west"
+  ],
+  "haryana|hisar": [
+    "haryana|bhiwani",
+    "haryana|rohtak",
+    "haryana|jind",
+    "rajasthan|hanumangarh",
+    "haryana|fatehabad"
+  ],
+  "haryana|jhajjar": [
+    "haryana|bhiwani",
+    "haryana|mahendragarh",
+    "haryana|rewari",
+    "haryana|gurgaon",
+    "nct of delhi|west",
+    "haryana|rohtak",
+    "haryana|sonipat"
+  ],
+  "haryana|jind": [
+    "haryana|rohtak",
+    "haryana|sonipat",
+    "haryana|panipat",
+    "haryana|karnal",
+    "haryana|kaithal",
+    "punjab|patiala",
+    "haryana|hisar",
+    "haryana|fatehabad",
+    "punjab|sangrur"
+  ],
+  "haryana|kaithal": [
+    "haryana|jind",
+    "haryana|karnal",
+    "haryana|kurukshetra",
+    "punjab|patiala"
+  ],
+  "haryana|karnal": [
+    "haryana|panipat",
+    "haryana|jind",
+    "haryana|kaithal",
+    "haryana|kurukshetra",
+    "uttar pradesh|shamli",
+    "uttar pradesh|saharanpur"
+  ],
+  "haryana|kurukshetra": [
+    "haryana|karnal",
+    "haryana|kaithal",
+    "punjab|patiala",
+    "haryana|ambala",
+    "uttar pradesh|saharanpur",
+    "haryana|yamunanagar"
+  ],
+  "haryana|mahendragarh": [
+    "rajasthan|jaipur",
+    "rajasthan|sikar",
+    "rajasthan|jhunjhunun",
+    "haryana|bhiwani",
+    "rajasthan|alwar",
+    "haryana|rewari",
+    "haryana|jhajjar"
+  ],
+  "haryana|mewat": [
+    "rajasthan|bharatpur",
+    "uttar pradesh|mathura",
+    "haryana|palwal",
+    "haryana|faridabad",
+    "rajasthan|alwar",
+    "haryana|rewari",
+    "haryana|gurgaon"
+  ],
+  "haryana|palwal": [
+    "uttar pradesh|mathura",
+    "uttar pradesh|aligarh",
+    "haryana|mewat",
+    "haryana|faridabad",
+    "uttar pradesh|gautam buddha nagar",
+    "haryana|gurgaon"
+  ],
+  "haryana|panchkula": [
+    "haryana|ambala",
+    "punjab|sahibzada ajit singh nagar",
+    "chandigarh|chandigarh",
+    "himachal pradesh|solan",
+    "himachal pradesh|sirmaur"
+  ],
+  "haryana|panipat": [
+    "haryana|sonipat",
+    "haryana|jind",
+    "haryana|karnal",
+    "uttar pradesh|baghpat",
+    "uttar pradesh|shamli"
+  ],
+  "haryana|rewari": [
+    "haryana|mewat",
+    "rajasthan|alwar",
+    "haryana|mahendragarh",
+    "haryana|gurgaon",
+    "haryana|jhajjar"
+  ],
+  "haryana|rohtak": [
+    "haryana|bhiwani",
+    "haryana|jhajjar",
+    "haryana|sonipat",
+    "haryana|jind",
+    "haryana|hisar"
+  ],
+  "haryana|sirsa": [
+    "punjab|muktsar",
+    "rajasthan|hanumangarh",
+    "haryana|fatehabad",
+    "punjab|mansa",
+    "punjab|bathinda"
+  ],
+  "haryana|sonipat": [
+    "haryana|jhajjar",
+    "nct of delhi|west",
+    "haryana|rohtak",
+    "haryana|panipat",
+    "haryana|jind",
+    "uttar pradesh|baghpat"
+  ],
+  "haryana|yamunanagar": [
+    "haryana|kurukshetra",
+    "haryana|ambala",
+    "uttar pradesh|saharanpur",
+    "himachal pradesh|sirmaur"
+  ],
+  "himachal pradesh|bilaspur": [
+    "himachal pradesh|solan",
+    "punjab|rupnagar",
+    "himachal pradesh|una",
+    "himachal pradesh|mandi",
+    "himachal pradesh|hamirpur"
+  ],
+  "himachal pradesh|chamba": [
+    "punjab|pathankot",
+    "jammu and kashmir|kathua",
+    "himachal pradesh|lahul & spiti",
+    "himachal pradesh|kangra",
+    "jammu and kashmir|kishtwar",
+    "jammu and kashmir|doda"
+  ],
+  "himachal pradesh|hamirpur": [
+    "himachal pradesh|bilaspur",
+    "himachal pradesh|una",
+    "himachal pradesh|mandi",
+    "himachal pradesh|kangra"
+  ],
+  "himachal pradesh|kangra": [
+    "himachal pradesh|una",
+    "himachal pradesh|mandi",
+    "himachal pradesh|hamirpur",
+    "punjab|hoshiarpur",
+    "punjab|gurdaspur",
+    "punjab|pathankot",
+    "himachal pradesh|kullu",
+    "himachal pradesh|lahul & spiti",
+    "himachal pradesh|chamba"
+  ],
+  "himachal pradesh|kinnaur": [
+    "himachal pradesh|shimla",
+    "uttarakhand|uttarkashi",
+    "himachal pradesh|kullu",
+    "himachal pradesh|lahul & spiti"
+  ],
+  "himachal pradesh|kullu": [
+    "himachal pradesh|mandi",
+    "himachal pradesh|shimla",
+    "himachal pradesh|kinnaur",
+    "himachal pradesh|lahul & spiti",
+    "himachal pradesh|kangra"
+  ],
+  "himachal pradesh|lahul & spiti": [
+    "himachal pradesh|kinnaur",
+    "himachal pradesh|kullu",
+    "jammu and kashmir|leh (ladakh)",
+    "himachal pradesh|kangra",
+    "himachal pradesh|chamba",
+    "jammu and kashmir|kishtwar",
+    "jammu and kashmir|kargil"
+  ],
+  "himachal pradesh|mandi": [
+    "himachal pradesh|solan",
+    "himachal pradesh|bilaspur",
+    "himachal pradesh|hamirpur",
+    "himachal pradesh|shimla",
+    "himachal pradesh|kullu",
+    "himachal pradesh|kangra"
+  ],
+  "himachal pradesh|shimla": [
+    "himachal pradesh|solan",
+    "himachal pradesh|mandi",
+    "uttarakhand|dehradun",
+    "himachal pradesh|sirmaur",
+    "uttarakhand|uttarkashi",
+    "himachal pradesh|kinnaur",
+    "himachal pradesh|kullu"
+  ],
+  "himachal pradesh|sirmaur": [
+    "haryana|ambala",
+    "haryana|panchkula",
+    "himachal pradesh|solan",
+    "uttar pradesh|saharanpur",
+    "haryana|yamunanagar",
+    "uttarakhand|dehradun",
+    "himachal pradesh|shimla"
+  ],
+  "himachal pradesh|solan": [
+    "punjab|sahibzada ajit singh nagar",
+    "haryana|panchkula",
+    "punjab|rupnagar",
+    "himachal pradesh|bilaspur",
+    "himachal pradesh|mandi",
+    "himachal pradesh|sirmaur",
+    "himachal pradesh|shimla"
+  ],
+  "himachal pradesh|una": [
+    "punjab|rupnagar",
+    "himachal pradesh|bilaspur",
+    "himachal pradesh|hamirpur",
+    "punjab|hoshiarpur",
+    "himachal pradesh|kangra"
+  ],
+  "jammu and kashmir|anantnag": [
+    "jammu and kashmir|kishtwar",
+    "jammu and kashmir|kargil",
+    "jammu and kashmir|doda",
+    "jammu and kashmir|ramban",
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|shupiyan",
+    "jammu and kashmir|pulwama",
+    "jammu and kashmir|srinagar",
+    "jammu and kashmir|ganderbal"
+  ],
+  "jammu and kashmir|badgam": [
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|shupiyan",
+    "jammu and kashmir|poonch",
+    "jammu and kashmir|baramulla",
+    "jammu and kashmir|pulwama",
+    "jammu and kashmir|srinagar"
+  ],
+  "jammu and kashmir|bandipore": [
+    "jammu and kashmir|kargil",
+    "jammu and kashmir|baramulla",
+    "jammu and kashmir|kupwara",
+    "jammu and kashmir|ganderbal"
+  ],
+  "jammu and kashmir|baramulla": [
+    "jammu and kashmir|badgam",
+    "jammu and kashmir|poonch",
+    "jammu and kashmir|kupwara",
+    "jammu and kashmir|srinagar",
+    "jammu and kashmir|ganderbal",
+    "jammu and kashmir|bandipore"
+  ],
+  "jammu and kashmir|doda": [
+    "jammu and kashmir|kathua",
+    "himachal pradesh|chamba",
+    "jammu and kashmir|kishtwar",
+    "jammu and kashmir|udhampur",
+    "jammu and kashmir|ramban",
+    "jammu and kashmir|anantnag"
+  ],
+  "jammu and kashmir|ganderbal": [
+    "jammu and kashmir|kargil",
+    "jammu and kashmir|anantnag",
+    "jammu and kashmir|baramulla",
+    "jammu and kashmir|srinagar",
+    "jammu and kashmir|bandipore"
+  ],
+  "jammu and kashmir|jammu": [
+    "jammu and kashmir|samba",
+    "jammu and kashmir|udhampur",
+    "jammu and kashmir|reasi",
+    "jammu and kashmir|rajouri"
+  ],
+  "jammu and kashmir|kargil": [
+    "himachal pradesh|lahul & spiti",
+    "jammu and kashmir|leh (ladakh)",
+    "jammu and kashmir|kishtwar",
+    "jammu and kashmir|anantnag",
+    "jammu and kashmir|ganderbal",
+    "jammu and kashmir|bandipore"
+  ],
+  "jammu and kashmir|kathua": [
+    "punjab|pathankot",
+    "himachal pradesh|chamba",
+    "jammu and kashmir|samba",
+    "jammu and kashmir|udhampur",
+    "jammu and kashmir|doda"
+  ],
+  "jammu and kashmir|kishtwar": [
+    "himachal pradesh|lahul & spiti",
+    "himachal pradesh|chamba",
+    "jammu and kashmir|kargil",
+    "jammu and kashmir|doda",
+    "jammu and kashmir|anantnag"
+  ],
+  "jammu and kashmir|kulgam": [
+    "jammu and kashmir|reasi",
+    "jammu and kashmir|ramban",
+    "jammu and kashmir|shupiyan",
+    "jammu and kashmir|anantnag",
+    "jammu and kashmir|badgam",
+    "jammu and kashmir|rajouri",
+    "jammu and kashmir|poonch"
+  ],
+  "jammu and kashmir|kupwara": [
+    "jammu and kashmir|baramulla",
+    "jammu and kashmir|bandipore"
+  ],
+  "jammu and kashmir|leh (ladakh)": [
+    "himachal pradesh|lahul & spiti",
+    "jammu and kashmir|kargil"
+  ],
+  "jammu and kashmir|poonch": [
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|badgam",
+    "jammu and kashmir|rajouri",
+    "jammu and kashmir|baramulla"
+  ],
+  "jammu and kashmir|pulwama": [
+    "jammu and kashmir|shupiyan",
+    "jammu and kashmir|anantnag",
+    "jammu and kashmir|badgam",
+    "jammu and kashmir|srinagar"
+  ],
+  "jammu and kashmir|rajouri": [
+    "jammu and kashmir|jammu",
+    "jammu and kashmir|reasi",
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|poonch"
+  ],
+  "jammu and kashmir|ramban": [
+    "jammu and kashmir|udhampur",
+    "jammu and kashmir|doda",
+    "jammu and kashmir|reasi",
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|anantnag"
+  ],
+  "jammu and kashmir|reasi": [
+    "jammu and kashmir|jammu",
+    "jammu and kashmir|udhampur",
+    "jammu and kashmir|ramban",
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|rajouri"
+  ],
+  "jammu and kashmir|samba": [
+    "jammu and kashmir|kathua",
+    "jammu and kashmir|jammu",
+    "jammu and kashmir|udhampur"
+  ],
+  "jammu and kashmir|shupiyan": [
+    "jammu and kashmir|kulgam",
+    "jammu and kashmir|anantnag",
+    "jammu and kashmir|badgam",
+    "jammu and kashmir|pulwama"
+  ],
+  "jammu and kashmir|srinagar": [
+    "jammu and kashmir|anantnag",
+    "jammu and kashmir|badgam",
+    "jammu and kashmir|baramulla",
+    "jammu and kashmir|pulwama",
+    "jammu and kashmir|ganderbal"
+  ],
+  "jammu and kashmir|udhampur": [
+    "jammu and kashmir|kathua",
+    "jammu and kashmir|samba",
+    "jammu and kashmir|jammu",
+    "jammu and kashmir|doda",
+    "jammu and kashmir|reasi",
+    "jammu and kashmir|ramban"
+  ],
+  "jharkhand|bokaro": [
+    "west bengal|puruliya",
+    "jharkhand|ramgarh",
+    "jharkhand|hazaribagh",
+    "jharkhand|dhanbad",
+    "jharkhand|giridih"
+  ],
+  "jharkhand|chatra": [
+    "jharkhand|ranchi",
+    "jharkhand|latehar",
+    "jharkhand|hazaribagh",
+    "jharkhand|palamu",
+    "bihar|gaya"
+  ],
+  "jharkhand|deoghar": [
+    "jharkhand|jamtara",
+    "jharkhand|dumka",
+    "bihar|jamui",
+    "jharkhand|giridih",
+    "bihar|banka"
+  ],
+  "jharkhand|dhanbad": [
+    "west bengal|puruliya",
+    "west bengal|barddhaman",
+    "jharkhand|bokaro",
+    "jharkhand|jamtara",
+    "jharkhand|giridih"
+  ],
+  "jharkhand|dumka": [
+    "jharkhand|jamtara",
+    "west bengal|birbhum",
+    "jharkhand|deoghar",
+    "jharkhand|pakur",
+    "bihar|banka",
+    "jharkhand|godda"
+  ],
+  "jharkhand|garhwa": [
+    "chhattisgarh|balrampur",
+    "jharkhand|latehar",
+    "jharkhand|palamu",
+    "uttar pradesh|sonbhadra",
+    "bihar|rohtas"
+  ],
+  "jharkhand|giridih": [
+    "jharkhand|bokaro",
+    "jharkhand|hazaribagh",
+    "jharkhand|dhanbad",
+    "jharkhand|jamtara",
+    "jharkhand|deoghar",
+    "bihar|jamui",
+    "jharkhand|kodarma",
+    "bihar|nawada"
+  ],
+  "jharkhand|godda": [
+    "jharkhand|dumka",
+    "jharkhand|pakur",
+    "bihar|banka",
+    "jharkhand|sahibganj",
+    "bihar|bhagalpur"
+  ],
+  "jharkhand|gumla": [
+    "jharkhand|simdega",
+    "chhattisgarh|jashpur",
+    "jharkhand|khunti",
+    "jharkhand|ranchi",
+    "jharkhand|lohardaga",
+    "chhattisgarh|balrampur",
+    "jharkhand|latehar"
+  ],
+  "jharkhand|hazaribagh": [
+    "jharkhand|ranchi",
+    "jharkhand|ramgarh",
+    "jharkhand|bokaro",
+    "jharkhand|chatra",
+    "jharkhand|giridih",
+    "jharkhand|kodarma",
+    "bihar|gaya",
+    "bihar|nawada"
+  ],
+  "jharkhand|jamtara": [
+    "west bengal|barddhaman",
+    "jharkhand|dhanbad",
+    "west bengal|birbhum",
+    "jharkhand|dumka",
+    "jharkhand|deoghar",
+    "jharkhand|giridih"
+  ],
+  "jharkhand|khunti": [
+    "jharkhand|pashchimi singhbhum",
+    "jharkhand|simdega",
+    "jharkhand|saraikela-kharsawan",
+    "jharkhand|gumla",
+    "jharkhand|ranchi"
+  ],
+  "jharkhand|kodarma": [
+    "jharkhand|hazaribagh",
+    "jharkhand|giridih",
+    "bihar|nawada"
+  ],
+  "jharkhand|latehar": [
+    "jharkhand|gumla",
+    "jharkhand|ranchi",
+    "jharkhand|lohardaga",
+    "chhattisgarh|balrampur",
+    "jharkhand|garhwa",
+    "jharkhand|chatra",
+    "jharkhand|palamu"
+  ],
+  "jharkhand|lohardaga": [
+    "jharkhand|gumla",
+    "jharkhand|ranchi",
+    "jharkhand|latehar"
+  ],
+  "jharkhand|pakur": [
+    "west bengal|birbhum",
+    "west bengal|murshidabad",
+    "jharkhand|dumka",
+    "jharkhand|godda",
+    "jharkhand|sahibganj"
+  ],
+  "jharkhand|palamu": [
+    "jharkhand|latehar",
+    "jharkhand|garhwa",
+    "jharkhand|chatra",
+    "bihar|gaya",
+    "bihar|aurangabad",
+    "bihar|rohtas"
+  ],
+  "jharkhand|pashchimi singhbhum": [
+    "odisha|kendujhar",
+    "odisha|mayurbhanj",
+    "odisha|sundargarh",
+    "jharkhand|simdega",
+    "jharkhand|saraikela-kharsawan",
+    "jharkhand|khunti"
+  ],
+  "jharkhand|purbi singhbhum": [
+    "odisha|mayurbhanj",
+    "west bengal|pashchim medinipur",
+    "jharkhand|saraikela-kharsawan",
+    "west bengal|puruliya"
+  ],
+  "jharkhand|ramgarh": [
+    "west bengal|puruliya",
+    "jharkhand|ranchi",
+    "jharkhand|bokaro",
+    "jharkhand|hazaribagh"
+  ],
+  "jharkhand|ranchi": [
+    "jharkhand|saraikela-kharsawan",
+    "jharkhand|khunti",
+    "jharkhand|gumla",
+    "west bengal|puruliya",
+    "jharkhand|lohardaga",
+    "jharkhand|ramgarh",
+    "jharkhand|latehar",
+    "jharkhand|chatra",
+    "jharkhand|hazaribagh"
+  ],
+  "jharkhand|sahibganj": [
+    "west bengal|murshidabad",
+    "jharkhand|pakur",
+    "jharkhand|godda",
+    "west bengal|maldah",
+    "bihar|bhagalpur",
+    "bihar|katihar"
+  ],
+  "jharkhand|saraikela-kharsawan": [
+    "odisha|mayurbhanj",
+    "jharkhand|pashchimi singhbhum",
+    "jharkhand|khunti",
+    "jharkhand|purbi singhbhum",
+    "west bengal|puruliya",
+    "jharkhand|ranchi"
+  ],
+  "jharkhand|simdega": [
+    "odisha|sundargarh",
+    "jharkhand|pashchimi singhbhum",
+    "chhattisgarh|jashpur",
+    "jharkhand|khunti",
+    "jharkhand|gumla"
+  ],
+  "karnataka|bagalkot": [
+    "karnataka|koppal",
+    "karnataka|raichur",
+    "karnataka|gadag",
+    "karnataka|belgaum",
+    "karnataka|bijapur"
+  ],
+  "karnataka|bangalore": [
+    "tamil nadu|krishnagiri",
+    "karnataka|ramanagara",
+    "karnataka|bangalore rural"
+  ],
+  "karnataka|bangalore rural": [
+    "tamil nadu|krishnagiri",
+    "karnataka|ramanagara",
+    "karnataka|bangalore",
+    "karnataka|kolar",
+    "karnataka|chikballapura",
+    "karnataka|tumkur"
+  ],
+  "karnataka|belgaum": [
+    "karnataka|uttara kannada",
+    "goa|north goa",
+    "maharashtra|sindhudurg",
+    "maharashtra|kolhapur",
+    "karnataka|dharwad",
+    "karnataka|gadag",
+    "karnataka|bagalkot",
+    "karnataka|bijapur",
+    "maharashtra|sangli"
+  ],
+  "karnataka|bellary": [
+    "andhra pradesh|anantapur",
+    "andhra pradesh|kurnool",
+    "karnataka|chitradurga",
+    "karnataka|davanagere",
+    "karnataka|haveri",
+    "karnataka|koppal",
+    "karnataka|raichur",
+    "karnataka|gadag"
+  ],
+  "karnataka|bidar": [
+    "telangana|medak",
+    "telangana|nizamabad",
+    "maharashtra|nanded",
+    "karnataka|gulbarga",
+    "maharashtra|osmanabad",
+    "maharashtra|latur"
+  ],
+  "karnataka|bijapur": [
+    "karnataka|raichur",
+    "karnataka|yadgir",
+    "karnataka|gulbarga",
+    "karnataka|belgaum",
+    "karnataka|bagalkot",
+    "maharashtra|sangli",
+    "maharashtra|solapur"
+  ],
+  "karnataka|chamrajnagar": [
+    "tamil nadu|erode",
+    "tamil nadu|salem",
+    "tamil nadu|dharmapuri",
+    "tamil nadu|krishnagiri",
+    "karnataka|ramanagara",
+    "tamil nadu|the nilgiris",
+    "kerala|wayanad",
+    "karnataka|mysore",
+    "karnataka|mandya"
+  ],
+  "karnataka|chikballapura": [
+    "karnataka|kolar",
+    "karnataka|bangalore rural",
+    "andhra pradesh|anantapur",
+    "andhra pradesh|chittoor",
+    "karnataka|tumkur"
+  ],
+  "karnataka|chikmagalur": [
+    "karnataka|hassan",
+    "karnataka|tumkur",
+    "karnataka|chitradurga",
+    "karnataka|davanagere",
+    "karnataka|dakshina kannada",
+    "karnataka|udupi",
+    "karnataka|shimoga"
+  ],
+  "karnataka|chitradurga": [
+    "andhra pradesh|anantapur",
+    "karnataka|tumkur",
+    "karnataka|davanagere",
+    "karnataka|chikmagalur",
+    "karnataka|bellary"
+  ],
+  "karnataka|dakshina kannada": [
+    "karnataka|hassan",
+    "karnataka|kodagu",
+    "kerala|kasaragod",
+    "karnataka|chikmagalur",
+    "karnataka|udupi"
+  ],
+  "karnataka|davanagere": [
+    "karnataka|chitradurga",
+    "karnataka|chikmagalur",
+    "karnataka|shimoga",
+    "karnataka|haveri",
+    "karnataka|bellary"
+  ],
+  "karnataka|dharwad": [
+    "karnataka|haveri",
+    "karnataka|uttara kannada",
+    "karnataka|gadag",
+    "karnataka|belgaum"
+  ],
+  "karnataka|gadag": [
+    "karnataka|haveri",
+    "karnataka|bellary",
+    "karnataka|koppal",
+    "karnataka|dharwad",
+    "karnataka|belgaum",
+    "karnataka|bagalkot"
+  ],
+  "karnataka|gulbarga": [
+    "telangana|mahbubnagar",
+    "telangana|ranga reddy",
+    "telangana|medak",
+    "karnataka|bidar",
+    "karnataka|yadgir",
+    "maharashtra|osmanabad",
+    "karnataka|bijapur",
+    "maharashtra|solapur"
+  ],
+  "karnataka|hassan": [
+    "karnataka|mysore",
+    "karnataka|mandya",
+    "karnataka|tumkur",
+    "karnataka|kodagu",
+    "karnataka|dakshina kannada",
+    "karnataka|chikmagalur"
+  ],
+  "karnataka|haveri": [
+    "karnataka|davanagere",
+    "karnataka|shimoga",
+    "karnataka|uttara kannada",
+    "karnataka|bellary",
+    "karnataka|dharwad",
+    "karnataka|gadag"
+  ],
+  "karnataka|kodagu": [
+    "kerala|wayanad",
+    "karnataka|mysore",
+    "karnataka|hassan",
+    "kerala|kannur",
+    "kerala|kasaragod",
+    "karnataka|dakshina kannada"
+  ],
+  "karnataka|kolar": [
+    "tamil nadu|krishnagiri",
+    "karnataka|bangalore rural",
+    "karnataka|chikballapura",
+    "andhra pradesh|chittoor"
+  ],
+  "karnataka|koppal": [
+    "karnataka|bellary",
+    "karnataka|raichur",
+    "karnataka|gadag",
+    "karnataka|bagalkot"
+  ],
+  "karnataka|mandya": [
+    "karnataka|ramanagara",
+    "karnataka|chamrajnagar",
+    "karnataka|mysore",
+    "karnataka|hassan",
+    "karnataka|tumkur"
+  ],
+  "karnataka|mysore": [
+    "kerala|wayanad",
+    "karnataka|chamrajnagar",
+    "karnataka|mandya",
+    "karnataka|hassan",
+    "karnataka|kodagu"
+  ],
+  "karnataka|raichur": [
+    "andhra pradesh|kurnool",
+    "telangana|mahbubnagar",
+    "karnataka|bellary",
+    "karnataka|koppal",
+    "karnataka|yadgir",
+    "karnataka|bagalkot",
+    "karnataka|bijapur"
+  ],
+  "karnataka|ramanagara": [
+    "tamil nadu|krishnagiri",
+    "karnataka|bangalore",
+    "karnataka|bangalore rural",
+    "karnataka|chamrajnagar",
+    "karnataka|mandya",
+    "karnataka|tumkur"
+  ],
+  "karnataka|shimoga": [
+    "karnataka|davanagere",
+    "karnataka|chikmagalur",
+    "karnataka|udupi",
+    "karnataka|haveri",
+    "karnataka|uttara kannada"
+  ],
+  "karnataka|tumkur": [
+    "karnataka|ramanagara",
+    "karnataka|bangalore rural",
+    "karnataka|chikballapura",
+    "andhra pradesh|anantapur",
+    "karnataka|mandya",
+    "karnataka|hassan",
+    "karnataka|chitradurga",
+    "karnataka|chikmagalur"
+  ],
+  "karnataka|udupi": [
+    "karnataka|dakshina kannada",
+    "karnataka|chikmagalur",
+    "karnataka|shimoga",
+    "karnataka|uttara kannada"
+  ],
+  "karnataka|uttara kannada": [
+    "karnataka|udupi",
+    "karnataka|shimoga",
+    "karnataka|haveri",
+    "goa|south goa",
+    "goa|north goa",
+    "karnataka|dharwad",
+    "karnataka|belgaum"
+  ],
+  "karnataka|yadgir": [
+    "telangana|mahbubnagar",
+    "karnataka|raichur",
+    "karnataka|gulbarga",
+    "karnataka|bijapur"
+  ],
+  "kerala|alappuzha": [
+    "kerala|kollam",
+    "kerala|pathanamthitta",
+    "kerala|kottayam",
+    "kerala|ernakulam"
+  ],
+  "kerala|ernakulam": [
+    "kerala|alappuzha",
+    "kerala|kottayam",
+    "kerala|idukki",
+    "kerala|thrissur"
+  ],
+  "kerala|idukki": [
+    "tamil nadu|tirunelveli",
+    "tamil nadu|virudunagar",
+    "tamil nadu|theni",
+    "tamil nadu|dindigul",
+    "tamil nadu|tiruppur",
+    "kerala|pathanamthitta",
+    "kerala|kottayam",
+    "kerala|ernakulam",
+    "kerala|thrissur",
+    "tamil nadu|coimbatore"
+  ],
+  "kerala|kannur": [
+    "kerala|wayanad",
+    "kerala|kozhikode",
+    "puducherry|mahe",
+    "karnataka|kodagu",
+    "kerala|kasaragod"
+  ],
+  "kerala|kasaragod": [
+    "kerala|kannur",
+    "karnataka|kodagu",
+    "karnataka|dakshina kannada"
+  ],
+  "kerala|kollam": [
+    "tamil nadu|tirunelveli",
+    "kerala|thiruvananthapuram",
+    "kerala|pathanamthitta",
+    "kerala|alappuzha"
+  ],
+  "kerala|kottayam": [
+    "kerala|pathanamthitta",
+    "kerala|alappuzha",
+    "kerala|idukki",
+    "kerala|ernakulam"
+  ],
+  "kerala|kozhikode": [
+    "kerala|malappuram",
+    "kerala|wayanad",
+    "kerala|kannur"
+  ],
+  "kerala|malappuram": [
+    "kerala|thrissur",
+    "kerala|palakkad",
+    "tamil nadu|the nilgiris",
+    "kerala|wayanad",
+    "kerala|kozhikode"
+  ],
+  "kerala|palakkad": [
+    "kerala|thrissur",
+    "tamil nadu|coimbatore",
+    "kerala|malappuram",
+    "tamil nadu|the nilgiris"
+  ],
+  "kerala|pathanamthitta": [
+    "tamil nadu|tirunelveli",
+    "kerala|kollam",
+    "kerala|alappuzha",
+    "kerala|kottayam",
+    "kerala|idukki"
+  ],
+  "kerala|thiruvananthapuram": [
+    "tamil nadu|kanniyakumari",
+    "tamil nadu|tirunelveli",
+    "kerala|kollam"
+  ],
+  "kerala|thrissur": [
+    "kerala|idukki",
+    "kerala|ernakulam",
+    "kerala|palakkad",
+    "tamil nadu|coimbatore",
+    "kerala|malappuram"
+  ],
+  "kerala|wayanad": [
+    "kerala|malappuram",
+    "tamil nadu|the nilgiris",
+    "karnataka|chamrajnagar",
+    "karnataka|mysore",
+    "kerala|kozhikode",
+    "kerala|kannur",
+    "karnataka|kodagu"
+  ],
+  "lakshadweep|lakshadweep": [],
+  "madhya pradesh|agar malwa": [
+    "madhya pradesh|shajapur",
+    "madhya pradesh|rajgarh",
+    "rajasthan|jhalawar",
+    "madhya pradesh|ujjain",
+    "madhya pradesh|ratlam"
+  ],
+  "madhya pradesh|alirajpur": [
+    "maharashtra|nandurbar",
+    "gujarat|chhota udaipur",
+    "gujarat|dahod",
+    "madhya pradesh|barwani",
+    "madhya pradesh|dhar",
+    "madhya pradesh|jhabua"
+  ],
+  "madhya pradesh|anuppur": [
+    "chhattisgarh|bilaspur",
+    "chhattisgarh|koriya",
+    "madhya pradesh|shahdol"
+  ],
+  "madhya pradesh|ashoknagar": [
+    "madhya pradesh|vidisha",
+    "madhya pradesh|guna",
+    "madhya pradesh|sagar",
+    "uttar pradesh|lalitpur",
+    "madhya pradesh|shivpuri"
+  ],
+  "madhya pradesh|balaghat": [
+    "maharashtra|bhandara",
+    "chhattisgarh|rajnandgaon",
+    "chhattisgarh|kabeerdham",
+    "maharashtra|gondiya",
+    "maharashtra|nagpur",
+    "madhya pradesh|seoni",
+    "madhya pradesh|mandla",
+    "madhya pradesh|dindori"
+  ],
+  "madhya pradesh|barwani": [
+    "maharashtra|jalgaon",
+    "maharashtra|dhule",
+    "maharashtra|nandurbar",
+    "madhya pradesh|alirajpur",
+    "madhya pradesh|west nimar",
+    "madhya pradesh|dhar"
+  ],
+  "madhya pradesh|betul": [
+    "maharashtra|amravati",
+    "madhya pradesh|harda",
+    "madhya pradesh|hoshangabad",
+    "madhya pradesh|east nimar",
+    "madhya pradesh|chhindwara"
+  ],
+  "madhya pradesh|bhind": [
+    "uttar pradesh|jhansi",
+    "madhya pradesh|datia",
+    "uttar pradesh|jalaun",
+    "madhya pradesh|gwalior",
+    "madhya pradesh|morena",
+    "uttar pradesh|agra",
+    "uttar pradesh|auraiya",
+    "uttar pradesh|etawah"
+  ],
+  "madhya pradesh|bhopal": [
+    "madhya pradesh|sehore",
+    "madhya pradesh|raisen",
+    "madhya pradesh|vidisha",
+    "madhya pradesh|guna",
+    "madhya pradesh|rajgarh"
+  ],
+  "madhya pradesh|burhanpur": [
+    "maharashtra|amravati",
+    "maharashtra|jalgaon",
+    "maharashtra|buldana",
+    "madhya pradesh|east nimar",
+    "madhya pradesh|west nimar"
+  ],
+  "madhya pradesh|chhatarpur": [
+    "madhya pradesh|damoh",
+    "madhya pradesh|sagar",
+    "madhya pradesh|panna",
+    "uttar pradesh|lalitpur",
+    "madhya pradesh|tikamgarh",
+    "uttar pradesh|mahoba",
+    "uttar pradesh|jhansi",
+    "uttar pradesh|banda"
+  ],
+  "madhya pradesh|chhindwara": [
+    "maharashtra|amravati",
+    "madhya pradesh|betul",
+    "madhya pradesh|hoshangabad",
+    "maharashtra|nagpur",
+    "madhya pradesh|seoni",
+    "madhya pradesh|narsimhapur"
+  ],
+  "madhya pradesh|damoh": [
+    "madhya pradesh|narsimhapur",
+    "madhya pradesh|jabalpur",
+    "madhya pradesh|sagar",
+    "madhya pradesh|panna",
+    "madhya pradesh|katni",
+    "madhya pradesh|chhatarpur"
+  ],
+  "madhya pradesh|datia": [
+    "uttar pradesh|jhansi",
+    "madhya pradesh|bhind",
+    "madhya pradesh|shivpuri",
+    "madhya pradesh|gwalior"
+  ],
+  "madhya pradesh|dewas": [
+    "madhya pradesh|harda",
+    "madhya pradesh|sehore",
+    "madhya pradesh|east nimar",
+    "madhya pradesh|shajapur",
+    "madhya pradesh|west nimar",
+    "madhya pradesh|indore",
+    "madhya pradesh|ujjain"
+  ],
+  "madhya pradesh|dhar": [
+    "madhya pradesh|alirajpur",
+    "madhya pradesh|barwani",
+    "madhya pradesh|west nimar",
+    "madhya pradesh|indore",
+    "madhya pradesh|jhabua",
+    "madhya pradesh|ujjain",
+    "madhya pradesh|ratlam"
+  ],
+  "madhya pradesh|dindori": [
+    "madhya pradesh|balaghat",
+    "chhattisgarh|kabeerdham",
+    "madhya pradesh|jabalpur",
+    "chhattisgarh|mungeli",
+    "chhattisgarh|bilaspur",
+    "madhya pradesh|mandla",
+    "madhya pradesh|shahdol",
+    "madhya pradesh|umaria"
+  ],
+  "madhya pradesh|east nimar": [
+    "maharashtra|amravati",
+    "madhya pradesh|betul",
+    "madhya pradesh|harda",
+    "madhya pradesh|burhanpur",
+    "madhya pradesh|dewas",
+    "madhya pradesh|west nimar"
+  ],
+  "madhya pradesh|guna": [
+    "madhya pradesh|bhopal",
+    "madhya pradesh|vidisha",
+    "madhya pradesh|rajgarh",
+    "rajasthan|jhalawar",
+    "rajasthan|baran",
+    "madhya pradesh|ashoknagar",
+    "madhya pradesh|shivpuri"
+  ],
+  "madhya pradesh|gwalior": [
+    "madhya pradesh|datia",
+    "madhya pradesh|bhind",
+    "madhya pradesh|shivpuri",
+    "madhya pradesh|morena"
+  ],
+  "madhya pradesh|harda": [
+    "madhya pradesh|betul",
+    "madhya pradesh|hoshangabad",
+    "madhya pradesh|sehore",
+    "madhya pradesh|east nimar",
+    "madhya pradesh|dewas"
+  ],
+  "madhya pradesh|hoshangabad": [
+    "madhya pradesh|betul",
+    "madhya pradesh|harda",
+    "madhya pradesh|sehore",
+    "madhya pradesh|raisen",
+    "madhya pradesh|chhindwara",
+    "madhya pradesh|narsimhapur"
+  ],
+  "madhya pradesh|indore": [
+    "madhya pradesh|dewas",
+    "madhya pradesh|west nimar",
+    "madhya pradesh|dhar",
+    "madhya pradesh|ujjain"
+  ],
+  "madhya pradesh|jabalpur": [
+    "madhya pradesh|seoni",
+    "madhya pradesh|narsimhapur",
+    "madhya pradesh|damoh",
+    "madhya pradesh|mandla",
+    "madhya pradesh|dindori",
+    "madhya pradesh|umaria",
+    "madhya pradesh|katni"
+  ],
+  "madhya pradesh|jhabua": [
+    "madhya pradesh|alirajpur",
+    "gujarat|dahod",
+    "madhya pradesh|dhar",
+    "madhya pradesh|ratlam",
+    "rajasthan|banswara"
+  ],
+  "madhya pradesh|katni": [
+    "madhya pradesh|jabalpur",
+    "madhya pradesh|damoh",
+    "madhya pradesh|panna",
+    "madhya pradesh|umaria",
+    "madhya pradesh|satna"
+  ],
+  "madhya pradesh|mandla": [
+    "madhya pradesh|balaghat",
+    "madhya pradesh|seoni",
+    "madhya pradesh|jabalpur",
+    "madhya pradesh|dindori"
+  ],
+  "madhya pradesh|mandsaur": [
+    "rajasthan|jhalawar",
+    "rajasthan|kota",
+    "madhya pradesh|ratlam",
+    "rajasthan|pratapgarh",
+    "madhya pradesh|neemuch",
+    "rajasthan|chittaurgarh"
+  ],
+  "madhya pradesh|morena": [
+    "madhya pradesh|bhind",
+    "madhya pradesh|shivpuri",
+    "madhya pradesh|gwalior",
+    "rajasthan|dhaulpur",
+    "uttar pradesh|agra",
+    "madhya pradesh|sheopur",
+    "rajasthan|karauli"
+  ],
+  "madhya pradesh|narsimhapur": [
+    "madhya pradesh|hoshangabad",
+    "madhya pradesh|raisen",
+    "madhya pradesh|chhindwara",
+    "madhya pradesh|seoni",
+    "madhya pradesh|jabalpur",
+    "madhya pradesh|damoh",
+    "madhya pradesh|sagar"
+  ],
+  "madhya pradesh|neemuch": [
+    "rajasthan|pratapgarh",
+    "madhya pradesh|mandsaur",
+    "rajasthan|chittaurgarh",
+    "rajasthan|bhilwara"
+  ],
+  "madhya pradesh|panna": [
+    "madhya pradesh|damoh",
+    "madhya pradesh|katni",
+    "madhya pradesh|satna",
+    "madhya pradesh|chhatarpur",
+    "uttar pradesh|banda"
+  ],
+  "madhya pradesh|raisen": [
+    "madhya pradesh|hoshangabad",
+    "madhya pradesh|sehore",
+    "madhya pradesh|bhopal",
+    "madhya pradesh|vidisha",
+    "madhya pradesh|narsimhapur",
+    "madhya pradesh|sagar"
+  ],
+  "madhya pradesh|rajgarh": [
+    "madhya pradesh|sehore",
+    "madhya pradesh|bhopal",
+    "madhya pradesh|guna",
+    "madhya pradesh|shajapur",
+    "madhya pradesh|agar malwa",
+    "rajasthan|jhalawar"
+  ],
+  "madhya pradesh|ratlam": [
+    "madhya pradesh|agar malwa",
+    "rajasthan|jhalawar",
+    "madhya pradesh|dhar",
+    "madhya pradesh|jhabua",
+    "madhya pradesh|ujjain",
+    "rajasthan|pratapgarh",
+    "madhya pradesh|mandsaur",
+    "rajasthan|banswara"
+  ],
+  "madhya pradesh|rewa": [
+    "madhya pradesh|sidhi",
+    "madhya pradesh|singrauli",
+    "madhya pradesh|satna",
+    "uttar pradesh|mirzapur",
+    "uttar pradesh|chitrakoot",
+    "uttar pradesh|allahabad"
+  ],
+  "madhya pradesh|sagar": [
+    "madhya pradesh|raisen",
+    "madhya pradesh|vidisha",
+    "madhya pradesh|narsimhapur",
+    "madhya pradesh|damoh",
+    "uttar pradesh|lalitpur",
+    "madhya pradesh|chhatarpur",
+    "madhya pradesh|ashoknagar"
+  ],
+  "madhya pradesh|satna": [
+    "madhya pradesh|panna",
+    "madhya pradesh|shahdol",
+    "madhya pradesh|umaria",
+    "madhya pradesh|katni",
+    "madhya pradesh|sidhi",
+    "madhya pradesh|rewa",
+    "uttar pradesh|chitrakoot",
+    "uttar pradesh|banda"
+  ],
+  "madhya pradesh|sehore": [
+    "madhya pradesh|harda",
+    "madhya pradesh|hoshangabad",
+    "madhya pradesh|raisen",
+    "madhya pradesh|bhopal",
+    "madhya pradesh|dewas",
+    "madhya pradesh|shajapur",
+    "madhya pradesh|rajgarh"
+  ],
+  "madhya pradesh|seoni": [
+    "madhya pradesh|balaghat",
+    "maharashtra|nagpur",
+    "madhya pradesh|chhindwara",
+    "madhya pradesh|narsimhapur",
+    "madhya pradesh|jabalpur",
+    "madhya pradesh|mandla"
+  ],
+  "madhya pradesh|shahdol": [
+    "chhattisgarh|mungeli",
+    "chhattisgarh|bilaspur",
+    "madhya pradesh|dindori",
+    "madhya pradesh|anuppur",
+    "chhattisgarh|koriya",
+    "madhya pradesh|umaria",
+    "madhya pradesh|sidhi",
+    "madhya pradesh|satna"
+  ],
+  "madhya pradesh|shajapur": [
+    "madhya pradesh|sehore",
+    "madhya pradesh|dewas",
+    "madhya pradesh|rajgarh",
+    "madhya pradesh|agar malwa",
+    "madhya pradesh|ujjain"
+  ],
+  "madhya pradesh|sheopur": [
+    "rajasthan|baran",
+    "rajasthan|kota",
+    "madhya pradesh|shivpuri",
+    "madhya pradesh|morena",
+    "rajasthan|sawai madhopur",
+    "rajasthan|karauli"
+  ],
+  "madhya pradesh|shivpuri": [
+    "madhya pradesh|guna",
+    "rajasthan|baran",
+    "uttar pradesh|lalitpur",
+    "uttar pradesh|jhansi",
+    "madhya pradesh|datia",
+    "madhya pradesh|ashoknagar",
+    "madhya pradesh|gwalior",
+    "madhya pradesh|morena",
+    "madhya pradesh|sheopur"
+  ],
+  "madhya pradesh|sidhi": [
+    "chhattisgarh|koriya",
+    "madhya pradesh|shahdol",
+    "madhya pradesh|singrauli",
+    "madhya pradesh|satna",
+    "madhya pradesh|rewa"
+  ],
+  "madhya pradesh|singrauli": [
+    "chhattisgarh|balrampur",
+    "uttar pradesh|sonbhadra",
+    "chhattisgarh|surajpur",
+    "chhattisgarh|koriya",
+    "madhya pradesh|sidhi",
+    "madhya pradesh|rewa",
+    "uttar pradesh|mirzapur"
+  ],
+  "madhya pradesh|tikamgarh": [
+    "uttar pradesh|lalitpur",
+    "madhya pradesh|chhatarpur",
+    "uttar pradesh|jhansi"
+  ],
+  "madhya pradesh|ujjain": [
+    "madhya pradesh|dewas",
+    "madhya pradesh|shajapur",
+    "madhya pradesh|agar malwa",
+    "madhya pradesh|dhar",
+    "madhya pradesh|indore",
+    "madhya pradesh|ratlam"
+  ],
+  "madhya pradesh|umaria": [
+    "madhya pradesh|jabalpur",
+    "madhya pradesh|dindori",
+    "madhya pradesh|shahdol",
+    "madhya pradesh|katni",
+    "madhya pradesh|satna"
+  ],
+  "madhya pradesh|vidisha": [
+    "madhya pradesh|raisen",
+    "madhya pradesh|bhopal",
+    "madhya pradesh|guna",
+    "madhya pradesh|sagar",
+    "madhya pradesh|ashoknagar"
+  ],
+  "madhya pradesh|west nimar": [
+    "maharashtra|jalgaon",
+    "madhya pradesh|burhanpur",
+    "madhya pradesh|east nimar",
+    "madhya pradesh|dewas",
+    "madhya pradesh|barwani",
+    "madhya pradesh|dhar",
+    "madhya pradesh|indore"
+  ],
+  "maharashtra|ahmadnagar": [
+    "maharashtra|pune",
+    "maharashtra|solapur",
+    "maharashtra|bid",
+    "maharashtra|aurangabad",
+    "maharashtra|thane",
+    "maharashtra|nashik"
+  ],
+  "maharashtra|akola": [
+    "maharashtra|washim",
+    "maharashtra|amravati",
+    "maharashtra|buldana"
+  ],
+  "maharashtra|amravati": [
+    "maharashtra|wardha",
+    "maharashtra|yavatmal",
+    "maharashtra|washim",
+    "maharashtra|akola",
+    "madhya pradesh|betul",
+    "maharashtra|buldana",
+    "madhya pradesh|burhanpur",
+    "madhya pradesh|east nimar",
+    "maharashtra|nagpur",
+    "madhya pradesh|chhindwara"
+  ],
+  "maharashtra|aurangabad": [
+    "maharashtra|jalna",
+    "maharashtra|bid",
+    "maharashtra|jalgaon",
+    "maharashtra|ahmadnagar",
+    "maharashtra|nashik"
+  ],
+  "maharashtra|bhandara": [
+    "maharashtra|chandrapur",
+    "maharashtra|garhchiroli",
+    "chhattisgarh|rajnandgaon",
+    "madhya pradesh|balaghat",
+    "maharashtra|gondiya",
+    "maharashtra|nagpur"
+  ],
+  "maharashtra|bid": [
+    "maharashtra|osmanabad",
+    "maharashtra|latur",
+    "maharashtra|parbhani",
+    "maharashtra|jalna",
+    "maharashtra|solapur",
+    "maharashtra|aurangabad",
+    "maharashtra|ahmadnagar"
+  ],
+  "maharashtra|buldana": [
+    "maharashtra|washim",
+    "maharashtra|akola",
+    "maharashtra|amravati",
+    "maharashtra|parbhani",
+    "maharashtra|jalna",
+    "maharashtra|jalgaon",
+    "madhya pradesh|burhanpur"
+  ],
+  "maharashtra|chandrapur": [
+    "telangana|adilabad",
+    "maharashtra|wardha",
+    "maharashtra|bhandara",
+    "maharashtra|yavatmal",
+    "maharashtra|garhchiroli",
+    "maharashtra|nagpur"
+  ],
+  "maharashtra|dhule": [
+    "maharashtra|jalgaon",
+    "maharashtra|nashik",
+    "gujarat|the dangs",
+    "gujarat|tapi",
+    "maharashtra|nandurbar",
+    "madhya pradesh|barwani"
+  ],
+  "maharashtra|garhchiroli": [
+    "chhattisgarh|bijapur",
+    "telangana|karimnagar",
+    "telangana|adilabad",
+    "maharashtra|chandrapur",
+    "maharashtra|bhandara",
+    "chhattisgarh|narayanpur",
+    "chhattisgarh|uttar bastar kanker",
+    "chhattisgarh|rajnandgaon",
+    "maharashtra|gondiya"
+  ],
+  "maharashtra|gondiya": [
+    "maharashtra|bhandara",
+    "maharashtra|garhchiroli",
+    "chhattisgarh|rajnandgaon",
+    "madhya pradesh|balaghat"
+  ],
+  "maharashtra|hingoli": [
+    "maharashtra|nanded",
+    "maharashtra|yavatmal",
+    "maharashtra|washim",
+    "maharashtra|parbhani"
+  ],
+  "maharashtra|jalgaon": [
+    "maharashtra|jalna",
+    "maharashtra|aurangabad",
+    "maharashtra|nashik",
+    "maharashtra|dhule",
+    "maharashtra|buldana",
+    "madhya pradesh|burhanpur",
+    "madhya pradesh|barwani",
+    "madhya pradesh|west nimar"
+  ],
+  "maharashtra|jalna": [
+    "maharashtra|parbhani",
+    "maharashtra|bid",
+    "maharashtra|aurangabad",
+    "maharashtra|jalgaon",
+    "maharashtra|buldana"
+  ],
+  "maharashtra|kolhapur": [
+    "maharashtra|sindhudurg",
+    "maharashtra|ratnagiri",
+    "karnataka|belgaum",
+    "maharashtra|sangli"
+  ],
+  "maharashtra|latur": [
+    "karnataka|bidar",
+    "maharashtra|nanded",
+    "maharashtra|osmanabad",
+    "maharashtra|parbhani",
+    "maharashtra|bid"
+  ],
+  "maharashtra|mumbai city": [
+    "maharashtra|mumbai suburban"
+  ],
+  "maharashtra|mumbai suburban": [
+    "maharashtra|mumbai city",
+    "maharashtra|thane"
+  ],
+  "maharashtra|nagpur": [
+    "maharashtra|chandrapur",
+    "maharashtra|wardha",
+    "maharashtra|bhandara",
+    "madhya pradesh|balaghat",
+    "maharashtra|amravati",
+    "madhya pradesh|chhindwara",
+    "madhya pradesh|seoni"
+  ],
+  "maharashtra|nanded": [
+    "telangana|adilabad",
+    "karnataka|bidar",
+    "telangana|nizamabad",
+    "maharashtra|yavatmal",
+    "maharashtra|latur",
+    "maharashtra|parbhani",
+    "maharashtra|hingoli"
+  ],
+  "maharashtra|nandurbar": [
+    "maharashtra|dhule",
+    "gujarat|tapi",
+    "gujarat|narmada",
+    "gujarat|chhota udaipur",
+    "madhya pradesh|alirajpur",
+    "madhya pradesh|barwani"
+  ],
+  "maharashtra|nashik": [
+    "maharashtra|aurangabad",
+    "maharashtra|jalgaon",
+    "maharashtra|ahmadnagar",
+    "maharashtra|thane",
+    "maharashtra|palghar",
+    "gujarat|valsad",
+    "gujarat|the dangs",
+    "gujarat|navsari",
+    "maharashtra|dhule"
+  ],
+  "maharashtra|osmanabad": [
+    "karnataka|bidar",
+    "karnataka|gulbarga",
+    "maharashtra|latur",
+    "maharashtra|solapur",
+    "maharashtra|bid"
+  ],
+  "maharashtra|palghar": [
+    "maharashtra|thane",
+    "dadra and nagar haveli|dadra and nagar haveli",
+    "maharashtra|nashik",
+    "gujarat|valsad"
+  ],
+  "maharashtra|parbhani": [
+    "maharashtra|nanded",
+    "maharashtra|washim",
+    "maharashtra|latur",
+    "maharashtra|hingoli",
+    "maharashtra|jalna",
+    "maharashtra|bid",
+    "maharashtra|buldana"
+  ],
+  "maharashtra|pune": [
+    "maharashtra|satara",
+    "maharashtra|raigarh",
+    "maharashtra|solapur",
+    "maharashtra|ahmadnagar",
+    "maharashtra|thane"
+  ],
+  "maharashtra|raigarh": [
+    "maharashtra|ratnagiri",
+    "maharashtra|satara",
+    "maharashtra|pune",
+    "maharashtra|thane"
+  ],
+  "maharashtra|ratnagiri": [
+    "maharashtra|sindhudurg",
+    "maharashtra|kolhapur",
+    "maharashtra|satara",
+    "maharashtra|raigarh",
+    "maharashtra|sangli"
+  ],
+  "maharashtra|sangli": [
+    "maharashtra|kolhapur",
+    "maharashtra|ratnagiri",
+    "maharashtra|satara",
+    "karnataka|belgaum",
+    "karnataka|bijapur",
+    "maharashtra|solapur"
+  ],
+  "maharashtra|satara": [
+    "maharashtra|ratnagiri",
+    "maharashtra|raigarh",
+    "maharashtra|pune",
+    "maharashtra|sangli",
+    "maharashtra|solapur"
+  ],
+  "maharashtra|sindhudurg": [
+    "goa|north goa",
+    "maharashtra|kolhapur",
+    "maharashtra|ratnagiri",
+    "karnataka|belgaum"
+  ],
+  "maharashtra|solapur": [
+    "maharashtra|satara",
+    "maharashtra|pune",
+    "karnataka|gulbarga",
+    "maharashtra|osmanabad",
+    "karnataka|bijapur",
+    "maharashtra|sangli",
+    "maharashtra|bid",
+    "maharashtra|ahmadnagar"
+  ],
+  "maharashtra|thane": [
+    "maharashtra|raigarh",
+    "maharashtra|pune",
+    "maharashtra|mumbai suburban",
+    "maharashtra|ahmadnagar",
+    "maharashtra|palghar",
+    "maharashtra|nashik"
+  ],
+  "maharashtra|wardha": [
+    "maharashtra|chandrapur",
+    "maharashtra|yavatmal",
+    "maharashtra|amravati",
+    "maharashtra|nagpur"
+  ],
+  "maharashtra|washim": [
+    "maharashtra|yavatmal",
+    "maharashtra|akola",
+    "maharashtra|amravati",
+    "maharashtra|parbhani",
+    "maharashtra|hingoli",
+    "maharashtra|buldana"
+  ],
+  "maharashtra|yavatmal": [
+    "telangana|adilabad",
+    "maharashtra|chandrapur",
+    "maharashtra|wardha",
+    "maharashtra|nanded",
+    "maharashtra|washim",
+    "maharashtra|amravati",
+    "maharashtra|hingoli"
+  ],
+  "manipur|bishnupur": [
+    "manipur|chandel",
+    "manipur|churachandpur",
+    "manipur|thoubal",
+    "manipur|imphal west",
+    "manipur|senapati"
+  ],
+  "manipur|chandel": [
+    "manipur|churachandpur",
+    "manipur|thoubal",
+    "manipur|bishnupur",
+    "manipur|ukhrul",
+    "manipur|senapati"
+  ],
+  "manipur|churachandpur": [
+    "mizoram|champhai",
+    "mizoram|aizawl",
+    "manipur|chandel",
+    "manipur|thoubal",
+    "manipur|bishnupur",
+    "assam|cachar",
+    "manipur|imphal east",
+    "manipur|tamenglong",
+    "manipur|senapati"
+  ],
+  "manipur|imphal east": [
+    "manipur|churachandpur",
+    "manipur|thoubal",
+    "assam|cachar",
+    "manipur|imphal west",
+    "manipur|tamenglong",
+    "manipur|senapati"
+  ],
+  "manipur|imphal west": [
+    "manipur|thoubal",
+    "manipur|bishnupur",
+    "manipur|imphal east",
+    "manipur|senapati"
+  ],
+  "manipur|senapati": [
+    "manipur|chandel",
+    "manipur|churachandpur",
+    "manipur|thoubal",
+    "manipur|bishnupur",
+    "manipur|imphal east",
+    "manipur|imphal west",
+    "manipur|tamenglong",
+    "manipur|ukhrul",
+    "nagaland|peren",
+    "nagaland|phek",
+    "nagaland|kohima"
+  ],
+  "manipur|tamenglong": [
+    "manipur|churachandpur",
+    "assam|cachar",
+    "manipur|imphal east",
+    "manipur|senapati",
+    "assam|dima hasao",
+    "nagaland|peren"
+  ],
+  "manipur|thoubal": [
+    "manipur|chandel",
+    "manipur|churachandpur",
+    "manipur|bishnupur",
+    "manipur|imphal east",
+    "manipur|imphal west",
+    "manipur|senapati"
+  ],
+  "manipur|ukhrul": [
+    "manipur|chandel",
+    "manipur|senapati",
+    "nagaland|phek"
+  ],
+  "meghalaya|east garo hills": [
+    "meghalaya|south garo hills",
+    "meghalaya|west khasi hills",
+    "meghalaya|west garo hills",
+    "meghalaya|north garo hills",
+    "assam|goalpara",
+    "assam|kamrup"
+  ],
+  "meghalaya|east khasi hills": [
+    "meghalaya|jaintia hills",
+    "meghalaya|south west khasi hills",
+    "meghalaya|west khasi hills",
+    "meghalaya|ri bhoi",
+    "assam|karbi anglong"
+  ],
+  "meghalaya|jaintia hills": [
+    "assam|cachar",
+    "assam|dima hasao",
+    "meghalaya|east khasi hills",
+    "meghalaya|ri bhoi",
+    "assam|karbi anglong"
+  ],
+  "meghalaya|north garo hills": [
+    "meghalaya|west garo hills",
+    "meghalaya|east garo hills",
+    "assam|goalpara"
+  ],
+  "meghalaya|ri bhoi": [
+    "meghalaya|jaintia hills",
+    "meghalaya|east khasi hills",
+    "meghalaya|west khasi hills",
+    "assam|karbi anglong",
+    "assam|kamrup metropolitan",
+    "assam|kamrup",
+    "assam|morigaon"
+  ],
+  "meghalaya|south garo hills": [
+    "meghalaya|south west khasi hills",
+    "meghalaya|west khasi hills",
+    "meghalaya|west garo hills",
+    "meghalaya|east garo hills"
+  ],
+  "meghalaya|south west garo hills": [
+    "meghalaya|west garo hills",
+    "assam|dhubri"
+  ],
+  "meghalaya|south west khasi hills": [
+    "meghalaya|east khasi hills",
+    "meghalaya|south garo hills",
+    "meghalaya|west khasi hills"
+  ],
+  "meghalaya|west garo hills": [
+    "meghalaya|south garo hills",
+    "meghalaya|south west garo hills",
+    "meghalaya|east garo hills",
+    "meghalaya|north garo hills",
+    "assam|dhubri",
+    "assam|goalpara"
+  ],
+  "meghalaya|west khasi hills": [
+    "meghalaya|east khasi hills",
+    "meghalaya|south west khasi hills",
+    "meghalaya|south garo hills",
+    "meghalaya|east garo hills",
+    "meghalaya|ri bhoi",
+    "assam|kamrup"
+  ],
+  "mizoram|aizawl": [
+    "mizoram|lunglei",
+    "mizoram|serchhip",
+    "mizoram|champhai",
+    "mizoram|mamit",
+    "mizoram|kolasib",
+    "manipur|churachandpur",
+    "assam|cachar"
+  ],
+  "mizoram|champhai": [
+    "mizoram|serchhip",
+    "mizoram|aizawl",
+    "manipur|churachandpur"
+  ],
+  "mizoram|kolasib": [
+    "mizoram|mamit",
+    "mizoram|aizawl",
+    "assam|hailakandi",
+    "assam|cachar"
+  ],
+  "mizoram|lawangtlai": [
+    "mizoram|saiha",
+    "mizoram|lunglei"
+  ],
+  "mizoram|lunglei": [
+    "mizoram|lawangtlai",
+    "mizoram|saiha",
+    "mizoram|serchhip",
+    "mizoram|mamit",
+    "mizoram|aizawl"
+  ],
+  "mizoram|mamit": [
+    "mizoram|lunglei",
+    "mizoram|aizawl",
+    "tripura|north tripura",
+    "mizoram|kolasib",
+    "assam|hailakandi",
+    "assam|karimganj"
+  ],
+  "mizoram|saiha": [
+    "mizoram|lawangtlai",
+    "mizoram|lunglei"
+  ],
+  "mizoram|serchhip": [
+    "mizoram|lunglei",
+    "mizoram|champhai",
+    "mizoram|aizawl"
+  ],
+  "nagaland|dimapur": [
+    "nagaland|peren",
+    "nagaland|kohima",
+    "assam|karbi anglong",
+    "assam|golaghat"
+  ],
+  "nagaland|kiphire": [
+    "nagaland|phek",
+    "nagaland|zunheboto",
+    "nagaland|tuensang"
+  ],
+  "nagaland|kohima": [
+    "manipur|senapati",
+    "nagaland|peren",
+    "nagaland|phek",
+    "nagaland|dimapur",
+    "nagaland|zunheboto",
+    "nagaland|wokha",
+    "assam|golaghat"
+  ],
+  "nagaland|longleng": [
+    "nagaland|tuensang",
+    "nagaland|mokokchung",
+    "nagaland|mon",
+    "assam|sivasagar"
+  ],
+  "nagaland|mokokchung": [
+    "nagaland|zunheboto",
+    "nagaland|tuensang",
+    "nagaland|wokha",
+    "nagaland|longleng",
+    "assam|jorhat",
+    "assam|sivasagar"
+  ],
+  "nagaland|mon": [
+    "nagaland|tuensang",
+    "nagaland|longleng",
+    "arunachal pradesh|longding",
+    "assam|sivasagar"
+  ],
+  "nagaland|peren": [
+    "manipur|tamenglong",
+    "manipur|senapati",
+    "assam|dima hasao",
+    "nagaland|kohima",
+    "nagaland|dimapur",
+    "assam|karbi anglong"
+  ],
+  "nagaland|phek": [
+    "manipur|ukhrul",
+    "manipur|senapati",
+    "nagaland|kohima",
+    "nagaland|kiphire",
+    "nagaland|zunheboto"
+  ],
+  "nagaland|tuensang": [
+    "nagaland|kiphire",
+    "nagaland|zunheboto",
+    "nagaland|mokokchung",
+    "nagaland|longleng",
+    "nagaland|mon"
+  ],
+  "nagaland|wokha": [
+    "nagaland|kohima",
+    "nagaland|zunheboto",
+    "assam|golaghat",
+    "nagaland|mokokchung",
+    "assam|jorhat"
+  ],
+  "nagaland|zunheboto": [
+    "nagaland|phek",
+    "nagaland|kohima",
+    "nagaland|kiphire",
+    "nagaland|tuensang",
+    "nagaland|wokha",
+    "nagaland|mokokchung"
+  ],
+  "nct of delhi|west": [
+    "haryana|faridabad",
+    "uttar pradesh|gautam buddha nagar",
+    "uttar pradesh|ghaziabad",
+    "haryana|gurgaon",
+    "haryana|jhajjar",
+    "haryana|sonipat",
+    "uttar pradesh|baghpat"
+  ],
+  "odisha|anugul": [
+    "odisha|nayagarh",
+    "odisha|cuttack",
+    "odisha|bauda",
+    "odisha|dhenkanal",
+    "odisha|subarnapur",
+    "odisha|debagarh",
+    "odisha|sambalpur",
+    "odisha|kendujhar",
+    "odisha|sundargarh"
+  ],
+  "odisha|balangir": [
+    "odisha|kalahandi",
+    "odisha|kandhamal",
+    "odisha|bauda",
+    "odisha|subarnapur",
+    "odisha|bargarh",
+    "odisha|nuapada"
+  ],
+  "odisha|baleshwar": [
+    "odisha|kendujhar",
+    "odisha|bhadrak",
+    "odisha|mayurbhanj",
+    "west bengal|purba medinipur",
+    "west bengal|pashchim medinipur"
+  ],
+  "odisha|bargarh": [
+    "odisha|balangir",
+    "odisha|subarnapur",
+    "odisha|sambalpur",
+    "odisha|jharsuguda",
+    "chhattisgarh|raigarh",
+    "odisha|nuapada",
+    "chhattisgarh|mahasamund"
+  ],
+  "odisha|bauda": [
+    "odisha|kandhamal",
+    "odisha|nayagarh",
+    "odisha|balangir",
+    "odisha|subarnapur",
+    "odisha|anugul"
+  ],
+  "odisha|bhadrak": [
+    "odisha|kendujhar",
+    "odisha|kendrapara",
+    "odisha|jajapur",
+    "odisha|baleshwar"
+  ],
+  "odisha|cuttack": [
+    "odisha|puri",
+    "odisha|khordha",
+    "odisha|nayagarh",
+    "odisha|dhenkanal",
+    "odisha|anugul",
+    "odisha|jagatsinghapur",
+    "odisha|kendrapara",
+    "odisha|jajapur"
+  ],
+  "odisha|debagarh": [
+    "odisha|anugul",
+    "odisha|sambalpur",
+    "odisha|sundargarh"
+  ],
+  "odisha|dhenkanal": [
+    "odisha|cuttack",
+    "odisha|anugul",
+    "odisha|kendujhar",
+    "odisha|jajapur"
+  ],
+  "odisha|gajapati": [
+    "andhra pradesh|srikakulam",
+    "odisha|rayagada",
+    "odisha|ganjam",
+    "odisha|kandhamal"
+  ],
+  "odisha|ganjam": [
+    "andhra pradesh|srikakulam",
+    "odisha|gajapati",
+    "odisha|puri",
+    "odisha|khordha",
+    "odisha|kandhamal",
+    "odisha|nayagarh"
+  ],
+  "odisha|jagatsinghapur": [
+    "odisha|puri",
+    "odisha|cuttack",
+    "odisha|kendrapara"
+  ],
+  "odisha|jajapur": [
+    "odisha|cuttack",
+    "odisha|dhenkanal",
+    "odisha|kendujhar",
+    "odisha|kendrapara",
+    "odisha|bhadrak"
+  ],
+  "odisha|jharsuguda": [
+    "odisha|bargarh",
+    "odisha|sambalpur",
+    "odisha|sundargarh",
+    "chhattisgarh|raigarh"
+  ],
+  "odisha|kalahandi": [
+    "odisha|rayagada",
+    "odisha|kandhamal",
+    "odisha|balangir",
+    "odisha|koraput",
+    "odisha|nabarangapur",
+    "chhattisgarh|gariaband",
+    "odisha|nuapada"
+  ],
+  "odisha|kandhamal": [
+    "odisha|gajapati",
+    "odisha|rayagada",
+    "odisha|ganjam",
+    "odisha|kalahandi",
+    "odisha|nayagarh",
+    "odisha|balangir",
+    "odisha|bauda"
+  ],
+  "odisha|kendrapara": [
+    "odisha|cuttack",
+    "odisha|jagatsinghapur",
+    "odisha|jajapur",
+    "odisha|bhadrak"
+  ],
+  "odisha|kendujhar": [
+    "odisha|dhenkanal",
+    "odisha|anugul",
+    "odisha|jajapur",
+    "odisha|bhadrak",
+    "odisha|baleshwar",
+    "odisha|mayurbhanj",
+    "odisha|sundargarh",
+    "jharkhand|pashchimi singhbhum"
+  ],
+  "odisha|khordha": [
+    "odisha|ganjam",
+    "odisha|puri",
+    "odisha|nayagarh",
+    "odisha|cuttack"
+  ],
+  "odisha|koraput": [
+    "andhra pradesh|vizianagaram",
+    "odisha|rayagada",
+    "odisha|kalahandi",
+    "andhra pradesh|visakhapatnam",
+    "odisha|malkangiri",
+    "chhattisgarh|bastar",
+    "odisha|nabarangapur"
+  ],
+  "odisha|malkangiri": [
+    "andhra pradesh|east godavari",
+    "telangana|khammam",
+    "andhra pradesh|visakhapatnam",
+    "chhattisgarh|sukma",
+    "odisha|koraput",
+    "chhattisgarh|bastar"
+  ],
+  "odisha|mayurbhanj": [
+    "odisha|kendujhar",
+    "odisha|baleshwar",
+    "west bengal|pashchim medinipur",
+    "jharkhand|pashchimi singhbhum",
+    "jharkhand|saraikela-kharsawan",
+    "jharkhand|purbi singhbhum"
+  ],
+  "odisha|nabarangapur": [
+    "odisha|kalahandi",
+    "odisha|koraput",
+    "chhattisgarh|bastar",
+    "chhattisgarh|kondagaon",
+    "chhattisgarh|gariaband",
+    "chhattisgarh|dhamtari"
+  ],
+  "odisha|nayagarh": [
+    "odisha|ganjam",
+    "odisha|khordha",
+    "odisha|kandhamal",
+    "odisha|cuttack",
+    "odisha|bauda",
+    "odisha|anugul"
+  ],
+  "odisha|nuapada": [
+    "odisha|kalahandi",
+    "odisha|balangir",
+    "odisha|bargarh",
+    "chhattisgarh|gariaband",
+    "chhattisgarh|mahasamund"
+  ],
+  "odisha|puri": [
+    "odisha|ganjam",
+    "odisha|khordha",
+    "odisha|cuttack",
+    "odisha|jagatsinghapur"
+  ],
+  "odisha|rayagada": [
+    "andhra pradesh|vizianagaram",
+    "andhra pradesh|srikakulam",
+    "odisha|gajapati",
+    "odisha|kalahandi",
+    "odisha|kandhamal",
+    "odisha|koraput"
+  ],
+  "odisha|sambalpur": [
+    "odisha|subarnapur",
+    "odisha|anugul",
+    "odisha|bargarh",
+    "odisha|debagarh",
+    "odisha|jharsuguda",
+    "odisha|sundargarh"
+  ],
+  "odisha|subarnapur": [
+    "odisha|balangir",
+    "odisha|bauda",
+    "odisha|anugul",
+    "odisha|bargarh",
+    "odisha|sambalpur"
+  ],
+  "odisha|sundargarh": [
+    "odisha|anugul",
+    "odisha|debagarh",
+    "odisha|sambalpur",
+    "odisha|kendujhar",
+    "odisha|jharsuguda",
+    "chhattisgarh|raigarh",
+    "jharkhand|pashchimi singhbhum",
+    "jharkhand|simdega",
+    "chhattisgarh|jashpur"
+  ],
+  "puducherry|karaikal": [
+    "tamil nadu|thiruvarur",
+    "tamil nadu|nagappattinam"
+  ],
+  "puducherry|mahe": [
+    "kerala|kannur"
+  ],
+  "puducherry|puducherry": [
+    "tamil nadu|cuddalore",
+    "tamil nadu|viluppuram"
+  ],
+  "puducherry|yanam": [
+    "andhra pradesh|east godavari"
+  ],
+  "punjab|amritsar": [
+    "punjab|tarn taran",
+    "punjab|kapurthala",
+    "punjab|gurdaspur"
+  ],
+  "punjab|barnala": [
+    "punjab|mansa",
+    "punjab|bathinda",
+    "punjab|sangrur",
+    "punjab|ludhiana",
+    "punjab|moga"
+  ],
+  "punjab|bathinda": [
+    "punjab|muktsar",
+    "haryana|sirsa",
+    "punjab|mansa",
+    "punjab|barnala",
+    "punjab|faridkot",
+    "punjab|moga"
+  ],
+  "punjab|faridkot": [
+    "punjab|muktsar",
+    "punjab|bathinda",
+    "punjab|moga",
+    "punjab|firozpur"
+  ],
+  "punjab|fatehgarh sahib": [
+    "punjab|patiala",
+    "punjab|sahibzada ajit singh nagar",
+    "punjab|sangrur",
+    "punjab|ludhiana",
+    "punjab|rupnagar"
+  ],
+  "punjab|fazilka": [
+    "rajasthan|ganganagar",
+    "punjab|muktsar",
+    "rajasthan|hanumangarh",
+    "punjab|firozpur"
+  ],
+  "punjab|firozpur": [
+    "punjab|muktsar",
+    "punjab|fazilka",
+    "punjab|faridkot",
+    "punjab|moga",
+    "punjab|jalandhar",
+    "punjab|tarn taran",
+    "punjab|kapurthala"
+  ],
+  "punjab|gurdaspur": [
+    "punjab|kapurthala",
+    "punjab|hoshiarpur",
+    "punjab|amritsar",
+    "punjab|pathankot",
+    "himachal pradesh|kangra"
+  ],
+  "punjab|hoshiarpur": [
+    "punjab|rupnagar",
+    "punjab|shahid bhagat singh nagar",
+    "himachal pradesh|una",
+    "punjab|jalandhar",
+    "punjab|kapurthala",
+    "punjab|gurdaspur",
+    "punjab|pathankot",
+    "himachal pradesh|kangra"
+  ],
+  "punjab|jalandhar": [
+    "punjab|ludhiana",
+    "punjab|shahid bhagat singh nagar",
+    "punjab|moga",
+    "punjab|firozpur",
+    "punjab|kapurthala",
+    "punjab|hoshiarpur"
+  ],
+  "punjab|kapurthala": [
+    "punjab|shahid bhagat singh nagar",
+    "punjab|firozpur",
+    "punjab|jalandhar",
+    "punjab|tarn taran",
+    "punjab|hoshiarpur",
+    "punjab|amritsar",
+    "punjab|gurdaspur"
+  ],
+  "punjab|ludhiana": [
+    "punjab|sangrur",
+    "punjab|barnala",
+    "punjab|fatehgarh sahib",
+    "punjab|rupnagar",
+    "punjab|shahid bhagat singh nagar",
+    "punjab|moga",
+    "punjab|jalandhar"
+  ],
+  "punjab|mansa": [
+    "haryana|fatehabad",
+    "haryana|sirsa",
+    "punjab|bathinda",
+    "punjab|sangrur",
+    "punjab|barnala"
+  ],
+  "punjab|moga": [
+    "punjab|bathinda",
+    "punjab|barnala",
+    "punjab|faridkot",
+    "punjab|ludhiana",
+    "punjab|firozpur",
+    "punjab|jalandhar"
+  ],
+  "punjab|muktsar": [
+    "punjab|fazilka",
+    "rajasthan|hanumangarh",
+    "haryana|sirsa",
+    "punjab|bathinda",
+    "punjab|faridkot",
+    "punjab|firozpur"
+  ],
+  "punjab|pathankot": [
+    "punjab|hoshiarpur",
+    "punjab|gurdaspur",
+    "jammu and kashmir|kathua",
+    "himachal pradesh|kangra",
+    "himachal pradesh|chamba"
+  ],
+  "punjab|patiala": [
+    "haryana|jind",
+    "haryana|kaithal",
+    "haryana|kurukshetra",
+    "haryana|ambala",
+    "punjab|sahibzada ajit singh nagar",
+    "punjab|sangrur",
+    "punjab|fatehgarh sahib"
+  ],
+  "punjab|rupnagar": [
+    "punjab|sahibzada ajit singh nagar",
+    "punjab|ludhiana",
+    "punjab|fatehgarh sahib",
+    "himachal pradesh|solan",
+    "punjab|shahid bhagat singh nagar",
+    "himachal pradesh|bilaspur",
+    "himachal pradesh|una",
+    "punjab|hoshiarpur"
+  ],
+  "punjab|sahibzada ajit singh nagar": [
+    "punjab|patiala",
+    "haryana|ambala",
+    "punjab|fatehgarh sahib",
+    "haryana|panchkula",
+    "chandigarh|chandigarh",
+    "himachal pradesh|solan",
+    "punjab|rupnagar"
+  ],
+  "punjab|sangrur": [
+    "haryana|jind",
+    "punjab|patiala",
+    "haryana|fatehabad",
+    "punjab|mansa",
+    "punjab|barnala",
+    "punjab|ludhiana",
+    "punjab|fatehgarh sahib"
+  ],
+  "punjab|shahid bhagat singh nagar": [
+    "punjab|ludhiana",
+    "punjab|rupnagar",
+    "punjab|jalandhar",
+    "punjab|kapurthala",
+    "punjab|hoshiarpur"
+  ],
+  "punjab|tarn taran": [
+    "punjab|firozpur",
+    "punjab|kapurthala",
+    "punjab|amritsar"
+  ],
+  "rajasthan|ajmer": [
+    "rajasthan|bhilwara",
+    "rajasthan|tonk",
+    "rajasthan|jaipur",
+    "rajasthan|rajsamand",
+    "rajasthan|pali",
+    "rajasthan|nagaur"
+  ],
+  "rajasthan|alwar": [
+    "rajasthan|bharatpur",
+    "haryana|mewat",
+    "rajasthan|jaipur",
+    "rajasthan|dausa",
+    "haryana|mahendragarh",
+    "haryana|rewari"
+  ],
+  "rajasthan|banswara": [
+    "gujarat|dahod",
+    "gujarat|mahisagar",
+    "madhya pradesh|jhabua",
+    "madhya pradesh|ratlam",
+    "rajasthan|pratapgarh",
+    "rajasthan|dungarpur"
+  ],
+  "rajasthan|baran": [
+    "madhya pradesh|guna",
+    "rajasthan|jhalawar",
+    "rajasthan|kota",
+    "madhya pradesh|shivpuri",
+    "madhya pradesh|sheopur"
+  ],
+  "rajasthan|barmer": [
+    "gujarat|kachchh",
+    "rajasthan|jalor",
+    "rajasthan|pali",
+    "rajasthan|jodhpur",
+    "rajasthan|jaisalmer"
+  ],
+  "rajasthan|bharatpur": [
+    "rajasthan|dhaulpur",
+    "uttar pradesh|agra",
+    "uttar pradesh|mathura",
+    "haryana|mewat",
+    "rajasthan|karauli",
+    "rajasthan|dausa",
+    "rajasthan|alwar"
+  ],
+  "rajasthan|bhilwara": [
+    "madhya pradesh|neemuch",
+    "rajasthan|chittaurgarh",
+    "rajasthan|bundi",
+    "rajasthan|tonk",
+    "rajasthan|ajmer",
+    "rajasthan|rajsamand"
+  ],
+  "rajasthan|bikaner": [
+    "rajasthan|churu",
+    "rajasthan|jodhpur",
+    "rajasthan|jaisalmer",
+    "rajasthan|nagaur",
+    "rajasthan|ganganagar",
+    "rajasthan|hanumangarh"
+  ],
+  "rajasthan|bundi": [
+    "rajasthan|kota",
+    "rajasthan|chittaurgarh",
+    "rajasthan|bhilwara",
+    "rajasthan|tonk"
+  ],
+  "rajasthan|chittaurgarh": [
+    "rajasthan|kota",
+    "rajasthan|pratapgarh",
+    "madhya pradesh|mandsaur",
+    "madhya pradesh|neemuch",
+    "rajasthan|udaipur",
+    "rajasthan|bundi",
+    "rajasthan|bhilwara",
+    "rajasthan|rajsamand"
+  ],
+  "rajasthan|churu": [
+    "rajasthan|sikar",
+    "rajasthan|jhunjhunun",
+    "haryana|bhiwani",
+    "rajasthan|nagaur",
+    "rajasthan|bikaner",
+    "rajasthan|hanumangarh"
+  ],
+  "rajasthan|dausa": [
+    "rajasthan|bharatpur",
+    "rajasthan|tonk",
+    "rajasthan|jaipur",
+    "rajasthan|sawai madhopur",
+    "rajasthan|karauli",
+    "rajasthan|alwar"
+  ],
+  "rajasthan|dhaulpur": [
+    "madhya pradesh|morena",
+    "uttar pradesh|agra",
+    "rajasthan|bharatpur",
+    "rajasthan|karauli"
+  ],
+  "rajasthan|dungarpur": [
+    "gujarat|mahisagar",
+    "gujarat|aravalli",
+    "rajasthan|pratapgarh",
+    "rajasthan|banswara",
+    "rajasthan|udaipur"
+  ],
+  "rajasthan|ganganagar": [
+    "rajasthan|bikaner",
+    "punjab|fazilka",
+    "rajasthan|hanumangarh"
+  ],
+  "rajasthan|hanumangarh": [
+    "rajasthan|churu",
+    "haryana|bhiwani",
+    "rajasthan|bikaner",
+    "rajasthan|ganganagar",
+    "punjab|muktsar",
+    "punjab|fazilka",
+    "haryana|hisar",
+    "haryana|fatehabad",
+    "haryana|sirsa"
+  ],
+  "rajasthan|jaipur": [
+    "rajasthan|tonk",
+    "rajasthan|ajmer",
+    "rajasthan|sikar",
+    "rajasthan|dausa",
+    "rajasthan|alwar",
+    "haryana|mahendragarh",
+    "rajasthan|nagaur"
+  ],
+  "rajasthan|jaisalmer": [
+    "rajasthan|barmer",
+    "rajasthan|jodhpur",
+    "rajasthan|bikaner"
+  ],
+  "rajasthan|jalor": [
+    "gujarat|kachchh",
+    "gujarat|banas kantha",
+    "rajasthan|sirohi",
+    "rajasthan|barmer",
+    "rajasthan|pali"
+  ],
+  "rajasthan|jhalawar": [
+    "madhya pradesh|guna",
+    "madhya pradesh|rajgarh",
+    "madhya pradesh|agar malwa",
+    "rajasthan|baran",
+    "rajasthan|kota",
+    "madhya pradesh|ratlam",
+    "madhya pradesh|mandsaur"
+  ],
+  "rajasthan|jhunjhunun": [
+    "rajasthan|sikar",
+    "rajasthan|churu",
+    "haryana|bhiwani",
+    "haryana|mahendragarh"
+  ],
+  "rajasthan|jodhpur": [
+    "rajasthan|barmer",
+    "rajasthan|pali",
+    "rajasthan|jaisalmer",
+    "rajasthan|nagaur",
+    "rajasthan|bikaner"
+  ],
+  "rajasthan|karauli": [
+    "madhya pradesh|morena",
+    "rajasthan|dhaulpur",
+    "rajasthan|bharatpur",
+    "madhya pradesh|sheopur",
+    "rajasthan|sawai madhopur",
+    "rajasthan|dausa"
+  ],
+  "rajasthan|kota": [
+    "rajasthan|jhalawar",
+    "rajasthan|baran",
+    "madhya pradesh|mandsaur",
+    "rajasthan|chittaurgarh",
+    "rajasthan|bundi",
+    "rajasthan|tonk",
+    "madhya pradesh|sheopur",
+    "rajasthan|sawai madhopur"
+  ],
+  "rajasthan|nagaur": [
+    "rajasthan|ajmer",
+    "rajasthan|jaipur",
+    "rajasthan|sikar",
+    "rajasthan|churu",
+    "rajasthan|pali",
+    "rajasthan|jodhpur",
+    "rajasthan|bikaner"
+  ],
+  "rajasthan|pali": [
+    "rajasthan|udaipur",
+    "rajasthan|sirohi",
+    "rajasthan|jalor",
+    "rajasthan|ajmer",
+    "rajasthan|rajsamand",
+    "rajasthan|barmer",
+    "rajasthan|jodhpur",
+    "rajasthan|nagaur"
+  ],
+  "rajasthan|pratapgarh": [
+    "madhya pradesh|ratlam",
+    "madhya pradesh|mandsaur",
+    "madhya pradesh|neemuch",
+    "rajasthan|banswara",
+    "rajasthan|dungarpur",
+    "rajasthan|udaipur",
+    "rajasthan|chittaurgarh"
+  ],
+  "rajasthan|rajsamand": [
+    "rajasthan|udaipur",
+    "rajasthan|chittaurgarh",
+    "rajasthan|bhilwara",
+    "rajasthan|ajmer",
+    "rajasthan|pali"
+  ],
+  "rajasthan|sawai madhopur": [
+    "rajasthan|kota",
+    "rajasthan|tonk",
+    "madhya pradesh|sheopur",
+    "rajasthan|karauli",
+    "rajasthan|dausa"
+  ],
+  "rajasthan|sikar": [
+    "rajasthan|jaipur",
+    "rajasthan|jhunjhunun",
+    "rajasthan|churu",
+    "haryana|mahendragarh",
+    "rajasthan|nagaur"
+  ],
+  "rajasthan|sirohi": [
+    "gujarat|sabar kantha",
+    "gujarat|banas kantha",
+    "rajasthan|udaipur",
+    "rajasthan|jalor",
+    "rajasthan|pali"
+  ],
+  "rajasthan|tonk": [
+    "rajasthan|kota",
+    "rajasthan|bundi",
+    "rajasthan|bhilwara",
+    "rajasthan|ajmer",
+    "rajasthan|jaipur",
+    "rajasthan|sawai madhopur",
+    "rajasthan|dausa"
+  ],
+  "rajasthan|udaipur": [
+    "gujarat|aravalli",
+    "rajasthan|pratapgarh",
+    "rajasthan|dungarpur",
+    "gujarat|sabar kantha",
+    "rajasthan|sirohi",
+    "rajasthan|chittaurgarh",
+    "rajasthan|rajsamand",
+    "rajasthan|pali"
+  ],
+  "sikkim|east sikkim": [
+    "west bengal|darjiling",
+    "sikkim|south sikkim",
+    "sikkim|north sikkim"
+  ],
+  "sikkim|north sikkim": [
+    "sikkim|east sikkim",
+    "sikkim|south sikkim",
+    "sikkim|west sikkim"
+  ],
+  "sikkim|south sikkim": [
+    "west bengal|darjiling",
+    "sikkim|east sikkim",
+    "sikkim|west sikkim",
+    "sikkim|north sikkim"
+  ],
+  "sikkim|west sikkim": [
+    "west bengal|darjiling",
+    "sikkim|south sikkim",
+    "sikkim|north sikkim"
+  ],
+  "tamil nadu|ariyalur": [
+    "tamil nadu|thanjavur",
+    "tamil nadu|tiruchirappalli",
+    "tamil nadu|perambalur",
+    "tamil nadu|cuddalore"
+  ],
+  "tamil nadu|chennai": [
+    "tamil nadu|kancheepuram",
+    "tamil nadu|thiruvallur"
+  ],
+  "tamil nadu|coimbatore": [
+    "tamil nadu|tiruppur",
+    "tamil nadu|erode",
+    "kerala|idukki",
+    "kerala|thrissur",
+    "kerala|palakkad",
+    "tamil nadu|the nilgiris"
+  ],
+  "tamil nadu|cuddalore": [
+    "tamil nadu|thanjavur",
+    "tamil nadu|nagappattinam",
+    "tamil nadu|ariyalur",
+    "tamil nadu|perambalur",
+    "puducherry|puducherry",
+    "tamil nadu|viluppuram"
+  ],
+  "tamil nadu|dharmapuri": [
+    "tamil nadu|erode",
+    "tamil nadu|salem",
+    "tamil nadu|krishnagiri",
+    "tamil nadu|viluppuram",
+    "tamil nadu|tiruvannamalai",
+    "karnataka|chamrajnagar"
+  ],
+  "tamil nadu|dindigul": [
+    "tamil nadu|theni",
+    "tamil nadu|madurai",
+    "tamil nadu|tiruppur",
+    "tamil nadu|karur",
+    "tamil nadu|tiruchirappalli",
+    "kerala|idukki"
+  ],
+  "tamil nadu|erode": [
+    "tamil nadu|tiruppur",
+    "tamil nadu|karur",
+    "tamil nadu|namakkal",
+    "tamil nadu|salem",
+    "tamil nadu|dharmapuri",
+    "tamil nadu|coimbatore",
+    "tamil nadu|the nilgiris",
+    "karnataka|chamrajnagar"
+  ],
+  "tamil nadu|kancheepuram": [
+    "tamil nadu|viluppuram",
+    "tamil nadu|tiruvannamalai",
+    "tamil nadu|vellore",
+    "tamil nadu|chennai",
+    "tamil nadu|thiruvallur"
+  ],
+  "tamil nadu|kanniyakumari": [
+    "tamil nadu|tirunelveli",
+    "kerala|thiruvananthapuram"
+  ],
+  "tamil nadu|karur": [
+    "tamil nadu|dindigul",
+    "tamil nadu|tiruppur",
+    "tamil nadu|namakkal",
+    "tamil nadu|tiruchirappalli",
+    "tamil nadu|erode"
+  ],
+  "tamil nadu|krishnagiri": [
+    "tamil nadu|dharmapuri",
+    "karnataka|ramanagara",
+    "karnataka|bangalore",
+    "karnataka|kolar",
+    "karnataka|bangalore rural",
+    "tamil nadu|tiruvannamalai",
+    "tamil nadu|vellore",
+    "andhra pradesh|chittoor",
+    "karnataka|chamrajnagar"
+  ],
+  "tamil nadu|madurai": [
+    "tamil nadu|virudunagar",
+    "tamil nadu|theni",
+    "tamil nadu|dindigul",
+    "tamil nadu|sivaganga",
+    "tamil nadu|tiruchirappalli"
+  ],
+  "tamil nadu|nagappattinam": [
+    "tamil nadu|thiruvarur",
+    "tamil nadu|thanjavur",
+    "puducherry|karaikal",
+    "tamil nadu|cuddalore"
+  ],
+  "tamil nadu|namakkal": [
+    "tamil nadu|karur",
+    "tamil nadu|tiruchirappalli",
+    "tamil nadu|erode",
+    "tamil nadu|salem"
+  ],
+  "tamil nadu|perambalur": [
+    "tamil nadu|tiruchirappalli",
+    "tamil nadu|ariyalur",
+    "tamil nadu|salem",
+    "tamil nadu|cuddalore",
+    "tamil nadu|viluppuram"
+  ],
+  "tamil nadu|pudukkottai": [
+    "tamil nadu|ramanathapuram",
+    "tamil nadu|sivaganga",
+    "tamil nadu|thanjavur",
+    "tamil nadu|tiruchirappalli"
+  ],
+  "tamil nadu|ramanathapuram": [
+    "tamil nadu|thoothukkudi",
+    "tamil nadu|virudunagar",
+    "tamil nadu|sivaganga",
+    "tamil nadu|pudukkottai"
+  ],
+  "tamil nadu|salem": [
+    "tamil nadu|namakkal",
+    "tamil nadu|tiruchirappalli",
+    "tamil nadu|perambalur",
+    "tamil nadu|erode",
+    "tamil nadu|dharmapuri",
+    "tamil nadu|viluppuram",
+    "karnataka|chamrajnagar"
+  ],
+  "tamil nadu|sivaganga": [
+    "tamil nadu|virudunagar",
+    "tamil nadu|madurai",
+    "tamil nadu|ramanathapuram",
+    "tamil nadu|pudukkottai",
+    "tamil nadu|tiruchirappalli"
+  ],
+  "tamil nadu|thanjavur": [
+    "tamil nadu|pudukkottai",
+    "tamil nadu|thiruvarur",
+    "tamil nadu|tiruchirappalli",
+    "tamil nadu|nagappattinam",
+    "tamil nadu|ariyalur",
+    "tamil nadu|cuddalore"
+  ],
+  "tamil nadu|the nilgiris": [
+    "tamil nadu|erode",
+    "kerala|palakkad",
+    "tamil nadu|coimbatore",
+    "kerala|malappuram",
+    "kerala|wayanad",
+    "karnataka|chamrajnagar"
+  ],
+  "tamil nadu|theni": [
+    "tamil nadu|virudunagar",
+    "tamil nadu|madurai",
+    "tamil nadu|dindigul",
+    "kerala|idukki"
+  ],
+  "tamil nadu|thiruvallur": [
+    "tamil nadu|kancheepuram",
+    "tamil nadu|vellore",
+    "tamil nadu|chennai",
+    "andhra pradesh|chittoor",
+    "andhra pradesh|nellore"
+  ],
+  "tamil nadu|thiruvarur": [
+    "tamil nadu|thanjavur",
+    "tamil nadu|nagappattinam",
+    "puducherry|karaikal"
+  ],
+  "tamil nadu|thoothukkudi": [
+    "tamil nadu|tirunelveli",
+    "tamil nadu|virudunagar",
+    "tamil nadu|ramanathapuram"
+  ],
+  "tamil nadu|tiruchirappalli": [
+    "tamil nadu|madurai",
+    "tamil nadu|dindigul",
+    "tamil nadu|karur",
+    "tamil nadu|namakkal",
+    "tamil nadu|sivaganga",
+    "tamil nadu|pudukkottai",
+    "tamil nadu|thanjavur",
+    "tamil nadu|ariyalur",
+    "tamil nadu|perambalur",
+    "tamil nadu|salem"
+  ],
+  "tamil nadu|tirunelveli": [
+    "tamil nadu|kanniyakumari",
+    "tamil nadu|thoothukkudi",
+    "tamil nadu|virudunagar",
+    "kerala|thiruvananthapuram",
+    "kerala|kollam",
+    "kerala|pathanamthitta",
+    "kerala|idukki"
+  ],
+  "tamil nadu|tiruppur": [
+    "tamil nadu|dindigul",
+    "tamil nadu|karur",
+    "tamil nadu|erode",
+    "kerala|idukki",
+    "tamil nadu|coimbatore"
+  ],
+  "tamil nadu|tiruvannamalai": [
+    "tamil nadu|dharmapuri",
+    "tamil nadu|krishnagiri",
+    "tamil nadu|viluppuram",
+    "tamil nadu|kancheepuram",
+    "tamil nadu|vellore"
+  ],
+  "tamil nadu|vellore": [
+    "tamil nadu|krishnagiri",
+    "tamil nadu|tiruvannamalai",
+    "tamil nadu|kancheepuram",
+    "tamil nadu|thiruvallur",
+    "andhra pradesh|chittoor"
+  ],
+  "tamil nadu|viluppuram": [
+    "tamil nadu|perambalur",
+    "tamil nadu|salem",
+    "tamil nadu|dharmapuri",
+    "tamil nadu|cuddalore",
+    "puducherry|puducherry",
+    "tamil nadu|tiruvannamalai",
+    "tamil nadu|kancheepuram"
+  ],
+  "tamil nadu|virudunagar": [
+    "tamil nadu|tirunelveli",
+    "tamil nadu|thoothukkudi",
+    "tamil nadu|theni",
+    "tamil nadu|madurai",
+    "tamil nadu|ramanathapuram",
+    "tamil nadu|sivaganga",
+    "kerala|idukki"
+  ],
+  "telangana|adilabad": [
+    "telangana|karimnagar",
+    "maharashtra|chandrapur",
+    "telangana|nizamabad",
+    "maharashtra|nanded",
+    "maharashtra|yavatmal",
+    "maharashtra|garhchiroli"
+  ],
+  "telangana|hyderabad": [
+    "telangana|ranga reddy"
+  ],
+  "telangana|karimnagar": [
+    "chhattisgarh|bijapur",
+    "telangana|warangal",
+    "telangana|adilabad",
+    "telangana|medak",
+    "telangana|nizamabad",
+    "maharashtra|garhchiroli"
+  ],
+  "telangana|khammam": [
+    "andhra pradesh|krishna",
+    "andhra pradesh|west godavari",
+    "andhra pradesh|east godavari",
+    "chhattisgarh|sukma",
+    "odisha|malkangiri",
+    "chhattisgarh|bijapur",
+    "telangana|nalgonda",
+    "telangana|warangal"
+  ],
+  "telangana|mahbubnagar": [
+    "andhra pradesh|prakasam",
+    "andhra pradesh|guntur",
+    "telangana|nalgonda",
+    "andhra pradesh|kurnool",
+    "telangana|ranga reddy",
+    "karnataka|raichur",
+    "karnataka|yadgir",
+    "karnataka|gulbarga"
+  ],
+  "telangana|medak": [
+    "telangana|nalgonda",
+    "telangana|warangal",
+    "telangana|karimnagar",
+    "telangana|ranga reddy",
+    "karnataka|bidar",
+    "telangana|nizamabad",
+    "karnataka|gulbarga"
+  ],
+  "telangana|nalgonda": [
+    "andhra pradesh|krishna",
+    "telangana|khammam",
+    "andhra pradesh|guntur",
+    "telangana|warangal",
+    "telangana|mahbubnagar",
+    "telangana|ranga reddy",
+    "telangana|medak"
+  ],
+  "telangana|nizamabad": [
+    "telangana|karimnagar",
+    "telangana|adilabad",
+    "telangana|medak",
+    "karnataka|bidar",
+    "maharashtra|nanded"
+  ],
+  "telangana|ranga reddy": [
+    "telangana|nalgonda",
+    "telangana|mahbubnagar",
+    "telangana|hyderabad",
+    "telangana|medak",
+    "karnataka|gulbarga"
+  ],
+  "telangana|warangal": [
+    "telangana|khammam",
+    "chhattisgarh|bijapur",
+    "telangana|nalgonda",
+    "telangana|karimnagar",
+    "telangana|medak"
+  ],
+  "tripura|dhalai": [
+    "tripura|gomati",
+    "tripura|north tripura",
+    "tripura|unokoti",
+    "tripura|khowai"
+  ],
+  "tripura|gomati": [
+    "tripura|south tripura",
+    "tripura|sipahijala",
+    "tripura|dhalai",
+    "tripura|khowai"
+  ],
+  "tripura|khowai": [
+    "tripura|gomati",
+    "tripura|sipahijala",
+    "tripura|dhalai",
+    "tripura|west tripura"
+  ],
+  "tripura|north tripura": [
+    "mizoram|mamit",
+    "tripura|dhalai",
+    "tripura|unokoti",
+    "assam|karimganj"
+  ],
+  "tripura|sipahijala": [
+    "tripura|gomati",
+    "tripura|south tripura",
+    "tripura|west tripura",
+    "tripura|khowai"
+  ],
+  "tripura|south tripura": [
+    "tripura|gomati",
+    "tripura|sipahijala"
+  ],
+  "tripura|unokoti": [
+    "tripura|dhalai",
+    "tripura|north tripura"
+  ],
+  "tripura|west tripura": [
+    "tripura|sipahijala",
+    "tripura|khowai"
+  ],
+  "uttar pradesh|agra": [
+    "madhya pradesh|bhind",
+    "madhya pradesh|morena",
+    "rajasthan|dhaulpur",
+    "uttar pradesh|firozabad",
+    "rajasthan|bharatpur",
+    "uttar pradesh|hathras",
+    "uttar pradesh|mathura",
+    "uttar pradesh|etawah"
+  ],
+  "uttar pradesh|aligarh": [
+    "uttar pradesh|hathras",
+    "uttar pradesh|mathura",
+    "uttar pradesh|kasganj",
+    "uttar pradesh|budaun",
+    "uttar pradesh|sambhal",
+    "haryana|palwal",
+    "uttar pradesh|gautam buddha nagar",
+    "uttar pradesh|bulandshahr"
+  ],
+  "uttar pradesh|allahabad": [
+    "madhya pradesh|rewa",
+    "uttar pradesh|mirzapur",
+    "uttar pradesh|chitrakoot",
+    "uttar pradesh|sant ravi das nagar",
+    "uttar pradesh|kaushambi",
+    "uttar pradesh|jaunpur",
+    "uttar pradesh|pratapgarh"
+  ],
+  "uttar pradesh|ambedkar nagar": [
+    "uttar pradesh|sultanpur",
+    "uttar pradesh|faizabad",
+    "uttar pradesh|sant kabir nagar",
+    "uttar pradesh|basti",
+    "uttar pradesh|azamgarh",
+    "uttar pradesh|gorakhpur"
+  ],
+  "uttar pradesh|amethi": [
+    "uttar pradesh|pratapgarh",
+    "uttar pradesh|rae bareli",
+    "uttar pradesh|sultanpur",
+    "uttar pradesh|faizabad",
+    "uttar pradesh|barabanki"
+  ],
+  "uttar pradesh|amroha": [
+    "uttar pradesh|sambhal",
+    "uttar pradesh|bulandshahr",
+    "uttar pradesh|hapur",
+    "uttar pradesh|meerut",
+    "uttar pradesh|moradabad",
+    "uttar pradesh|bijnor"
+  ],
+  "uttar pradesh|auraiya": [
+    "uttar pradesh|jalaun",
+    "madhya pradesh|bhind",
+    "uttar pradesh|kanpur dehat",
+    "uttar pradesh|etawah",
+    "uttar pradesh|kannauj"
+  ],
+  "uttar pradesh|azamgarh": [
+    "uttar pradesh|jaunpur",
+    "uttar pradesh|sultanpur",
+    "uttar pradesh|ambedkar nagar",
+    "uttar pradesh|ghazipur",
+    "uttar pradesh|mau",
+    "uttar pradesh|gorakhpur"
+  ],
+  "uttar pradesh|baghpat": [
+    "uttar pradesh|ghaziabad",
+    "uttar pradesh|meerut",
+    "nct of delhi|west",
+    "haryana|sonipat",
+    "haryana|panipat",
+    "uttar pradesh|muzaffarnagar",
+    "uttar pradesh|shamli"
+  ],
+  "uttar pradesh|bahraich": [
+    "uttar pradesh|barabanki",
+    "uttar pradesh|gonda",
+    "uttar pradesh|sitapur",
+    "uttar pradesh|shravasti",
+    "uttar pradesh|lakhimpur kheri"
+  ],
+  "uttar pradesh|ballia": [
+    "bihar|bhojpur",
+    "bihar|buxar",
+    "uttar pradesh|ghazipur",
+    "bihar|saran",
+    "uttar pradesh|mau",
+    "bihar|siwan",
+    "uttar pradesh|deoria"
+  ],
+  "uttar pradesh|balrampur": [
+    "uttar pradesh|gonda",
+    "uttar pradesh|siddharth nagar",
+    "uttar pradesh|shravasti"
+  ],
+  "uttar pradesh|banda": [
+    "madhya pradesh|panna",
+    "madhya pradesh|satna",
+    "uttar pradesh|chitrakoot",
+    "madhya pradesh|chhatarpur",
+    "uttar pradesh|mahoba",
+    "uttar pradesh|hamirpur",
+    "uttar pradesh|fatehpur"
+  ],
+  "uttar pradesh|barabanki": [
+    "uttar pradesh|rae bareli",
+    "uttar pradesh|amethi",
+    "uttar pradesh|faizabad",
+    "uttar pradesh|lucknow",
+    "uttar pradesh|gonda",
+    "uttar pradesh|sitapur",
+    "uttar pradesh|bahraich"
+  ],
+  "uttar pradesh|bareilly": [
+    "uttar pradesh|shahjahanpur",
+    "uttar pradesh|budaun",
+    "uttar pradesh|pilibhit",
+    "uttar pradesh|rampur",
+    "uttarakhand|udham singh nagar"
+  ],
+  "uttar pradesh|basti": [
+    "uttar pradesh|ambedkar nagar",
+    "uttar pradesh|faizabad",
+    "uttar pradesh|sant kabir nagar",
+    "uttar pradesh|gonda",
+    "uttar pradesh|siddharth nagar"
+  ],
+  "uttar pradesh|bijnor": [
+    "uttar pradesh|amroha",
+    "uttar pradesh|meerut",
+    "uttar pradesh|moradabad",
+    "uttarakhand|udham singh nagar",
+    "uttarakhand|nainital",
+    "uttarakhand|garhwal",
+    "uttar pradesh|muzaffarnagar",
+    "uttarakhand|hardwar"
+  ],
+  "uttar pradesh|budaun": [
+    "uttar pradesh|farrukhabad",
+    "uttar pradesh|kasganj",
+    "uttar pradesh|shahjahanpur",
+    "uttar pradesh|sambhal",
+    "uttar pradesh|aligarh",
+    "uttar pradesh|bareilly",
+    "uttar pradesh|rampur"
+  ],
+  "uttar pradesh|bulandshahr": [
+    "uttar pradesh|sambhal",
+    "uttar pradesh|aligarh",
+    "uttar pradesh|gautam buddha nagar",
+    "uttar pradesh|hapur",
+    "uttar pradesh|amroha"
+  ],
+  "uttar pradesh|chandauli": [
+    "uttar pradesh|sonbhadra",
+    "bihar|kaimur",
+    "uttar pradesh|mirzapur",
+    "uttar pradesh|varanasi",
+    "uttar pradesh|ghazipur"
+  ],
+  "uttar pradesh|chitrakoot": [
+    "madhya pradesh|satna",
+    "madhya pradesh|rewa",
+    "uttar pradesh|allahabad",
+    "uttar pradesh|banda",
+    "uttar pradesh|kaushambi",
+    "uttar pradesh|fatehpur"
+  ],
+  "uttar pradesh|deoria": [
+    "uttar pradesh|ballia",
+    "uttar pradesh|mau",
+    "bihar|siwan",
+    "bihar|gopalganj",
+    "uttar pradesh|gorakhpur",
+    "uttar pradesh|kushinagar"
+  ],
+  "uttar pradesh|etah": [
+    "uttar pradesh|firozabad",
+    "uttar pradesh|hathras",
+    "uttar pradesh|mainpuri",
+    "uttar pradesh|farrukhabad",
+    "uttar pradesh|kasganj"
+  ],
+  "uttar pradesh|etawah": [
+    "madhya pradesh|bhind",
+    "uttar pradesh|agra",
+    "uttar pradesh|firozabad",
+    "uttar pradesh|auraiya",
+    "uttar pradesh|kannauj",
+    "uttar pradesh|mainpuri"
+  ],
+  "uttar pradesh|faizabad": [
+    "uttar pradesh|sultanpur",
+    "uttar pradesh|amethi",
+    "uttar pradesh|ambedkar nagar",
+    "uttar pradesh|basti",
+    "uttar pradesh|barabanki",
+    "uttar pradesh|gonda"
+  ],
+  "uttar pradesh|farrukhabad": [
+    "uttar pradesh|hardoi",
+    "uttar pradesh|kannauj",
+    "uttar pradesh|mainpuri",
+    "uttar pradesh|etah",
+    "uttar pradesh|kasganj",
+    "uttar pradesh|shahjahanpur",
+    "uttar pradesh|budaun"
+  ],
+  "uttar pradesh|fatehpur": [
+    "uttar pradesh|chitrakoot",
+    "uttar pradesh|hamirpur",
+    "uttar pradesh|kanpur nagar",
+    "uttar pradesh|banda",
+    "uttar pradesh|kaushambi",
+    "uttar pradesh|pratapgarh",
+    "uttar pradesh|rae bareli",
+    "uttar pradesh|unnao"
+  ],
+  "uttar pradesh|firozabad": [
+    "uttar pradesh|agra",
+    "uttar pradesh|hathras",
+    "uttar pradesh|mathura",
+    "uttar pradesh|etawah",
+    "uttar pradesh|mainpuri",
+    "uttar pradesh|etah"
+  ],
+  "uttar pradesh|gautam buddha nagar": [
+    "uttar pradesh|aligarh",
+    "haryana|palwal",
+    "haryana|faridabad",
+    "uttar pradesh|bulandshahr",
+    "uttar pradesh|hapur",
+    "uttar pradesh|ghaziabad",
+    "nct of delhi|west"
+  ],
+  "uttar pradesh|ghaziabad": [
+    "uttar pradesh|gautam buddha nagar",
+    "uttar pradesh|hapur",
+    "uttar pradesh|meerut",
+    "nct of delhi|west",
+    "uttar pradesh|baghpat"
+  ],
+  "uttar pradesh|ghazipur": [
+    "bihar|kaimur",
+    "uttar pradesh|chandauli",
+    "uttar pradesh|varanasi",
+    "uttar pradesh|jaunpur",
+    "bihar|buxar",
+    "uttar pradesh|ballia",
+    "uttar pradesh|mau",
+    "uttar pradesh|azamgarh"
+  ],
+  "uttar pradesh|gonda": [
+    "uttar pradesh|faizabad",
+    "uttar pradesh|basti",
+    "uttar pradesh|barabanki",
+    "uttar pradesh|siddharth nagar",
+    "uttar pradesh|balrampur",
+    "uttar pradesh|shravasti",
+    "uttar pradesh|bahraich"
+  ],
+  "uttar pradesh|gorakhpur": [
+    "uttar pradesh|ambedkar nagar",
+    "uttar pradesh|sant kabir nagar",
+    "uttar pradesh|mau",
+    "uttar pradesh|azamgarh",
+    "uttar pradesh|deoria",
+    "uttar pradesh|kushinagar",
+    "uttar pradesh|maharajganj"
+  ],
+  "uttar pradesh|hamirpur": [
+    "uttar pradesh|mahoba",
+    "uttar pradesh|jhansi",
+    "uttar pradesh|jalaun",
+    "uttar pradesh|kanpur nagar",
+    "uttar pradesh|kanpur dehat",
+    "uttar pradesh|banda",
+    "uttar pradesh|fatehpur"
+  ],
+  "uttar pradesh|hapur": [
+    "uttar pradesh|gautam buddha nagar",
+    "uttar pradesh|bulandshahr",
+    "uttar pradesh|ghaziabad",
+    "uttar pradesh|amroha",
+    "uttar pradesh|meerut"
+  ],
+  "uttar pradesh|hardoi": [
+    "uttar pradesh|kanpur nagar",
+    "uttar pradesh|unnao",
+    "uttar pradesh|lucknow",
+    "uttar pradesh|sitapur",
+    "uttar pradesh|kannauj",
+    "uttar pradesh|farrukhabad",
+    "uttar pradesh|shahjahanpur",
+    "uttar pradesh|lakhimpur kheri"
+  ],
+  "uttar pradesh|hathras": [
+    "uttar pradesh|agra",
+    "uttar pradesh|firozabad",
+    "uttar pradesh|mathura",
+    "uttar pradesh|etah",
+    "uttar pradesh|kasganj",
+    "uttar pradesh|aligarh"
+  ],
+  "uttar pradesh|jalaun": [
+    "uttar pradesh|jhansi",
+    "uttar pradesh|hamirpur",
+    "madhya pradesh|bhind",
+    "uttar pradesh|kanpur dehat",
+    "uttar pradesh|auraiya"
+  ],
+  "uttar pradesh|jaunpur": [
+    "uttar pradesh|allahabad",
+    "uttar pradesh|sant ravi das nagar",
+    "uttar pradesh|varanasi",
+    "uttar pradesh|pratapgarh",
+    "uttar pradesh|sultanpur",
+    "uttar pradesh|ghazipur",
+    "uttar pradesh|azamgarh"
+  ],
+  "uttar pradesh|jhansi": [
+    "uttar pradesh|lalitpur",
+    "madhya pradesh|chhatarpur",
+    "madhya pradesh|tikamgarh",
+    "uttar pradesh|mahoba",
+    "uttar pradesh|hamirpur",
+    "madhya pradesh|datia",
+    "uttar pradesh|jalaun",
+    "madhya pradesh|bhind",
+    "madhya pradesh|shivpuri"
+  ],
+  "uttar pradesh|kannauj": [
+    "uttar pradesh|kanpur nagar",
+    "uttar pradesh|kanpur dehat",
+    "uttar pradesh|hardoi",
+    "uttar pradesh|auraiya",
+    "uttar pradesh|etawah",
+    "uttar pradesh|mainpuri",
+    "uttar pradesh|farrukhabad"
+  ],
+  "uttar pradesh|kanpur dehat": [
+    "uttar pradesh|hamirpur",
+    "uttar pradesh|jalaun",
+    "uttar pradesh|kanpur nagar",
+    "uttar pradesh|auraiya",
+    "uttar pradesh|kannauj"
+  ],
+  "uttar pradesh|kanpur nagar": [
+    "uttar pradesh|hamirpur",
+    "uttar pradesh|kanpur dehat",
+    "uttar pradesh|fatehpur",
+    "uttar pradesh|unnao",
+    "uttar pradesh|hardoi",
+    "uttar pradesh|kannauj"
+  ],
+  "uttar pradesh|kasganj": [
+    "uttar pradesh|hathras",
+    "uttar pradesh|farrukhabad",
+    "uttar pradesh|etah",
+    "uttar pradesh|budaun",
+    "uttar pradesh|aligarh"
+  ],
+  "uttar pradesh|kaushambi": [
+    "uttar pradesh|chitrakoot",
+    "uttar pradesh|allahabad",
+    "uttar pradesh|fatehpur",
+    "uttar pradesh|pratapgarh",
+    "uttar pradesh|rae bareli"
+  ],
+  "uttar pradesh|kushinagar": [
+    "bihar|gopalganj",
+    "uttar pradesh|deoria",
+    "uttar pradesh|gorakhpur",
+    "bihar|pashchim champaran",
+    "uttar pradesh|maharajganj"
+  ],
+  "uttar pradesh|lakhimpur kheri": [
+    "uttar pradesh|hardoi",
+    "uttar pradesh|sitapur",
+    "uttar pradesh|shahjahanpur",
+    "uttar pradesh|bahraich",
+    "uttar pradesh|pilibhit"
+  ],
+  "uttar pradesh|lalitpur": [
+    "madhya pradesh|sagar",
+    "madhya pradesh|chhatarpur",
+    "madhya pradesh|tikamgarh",
+    "uttar pradesh|jhansi",
+    "madhya pradesh|ashoknagar",
+    "madhya pradesh|shivpuri"
+  ],
+  "uttar pradesh|lucknow": [
+    "uttar pradesh|rae bareli",
+    "uttar pradesh|unnao",
+    "uttar pradesh|barabanki",
+    "uttar pradesh|hardoi",
+    "uttar pradesh|sitapur"
+  ],
+  "uttar pradesh|maharajganj": [
+    "uttar pradesh|sant kabir nagar",
+    "uttar pradesh|siddharth nagar",
+    "uttar pradesh|gorakhpur",
+    "uttar pradesh|kushinagar",
+    "bihar|pashchim champaran"
+  ],
+  "uttar pradesh|mahoba": [
+    "madhya pradesh|chhatarpur",
+    "uttar pradesh|jhansi",
+    "uttar pradesh|hamirpur",
+    "uttar pradesh|banda"
+  ],
+  "uttar pradesh|mainpuri": [
+    "uttar pradesh|firozabad",
+    "uttar pradesh|etawah",
+    "uttar pradesh|kannauj",
+    "uttar pradesh|farrukhabad",
+    "uttar pradesh|etah"
+  ],
+  "uttar pradesh|mathura": [
+    "uttar pradesh|agra",
+    "uttar pradesh|firozabad",
+    "rajasthan|bharatpur",
+    "uttar pradesh|hathras",
+    "uttar pradesh|aligarh",
+    "haryana|mewat",
+    "haryana|palwal"
+  ],
+  "uttar pradesh|mau": [
+    "uttar pradesh|ghazipur",
+    "uttar pradesh|ballia",
+    "uttar pradesh|azamgarh",
+    "uttar pradesh|deoria",
+    "uttar pradesh|gorakhpur"
+  ],
+  "uttar pradesh|meerut": [
+    "uttar pradesh|hapur",
+    "uttar pradesh|ghaziabad",
+    "uttar pradesh|amroha",
+    "uttar pradesh|baghpat",
+    "uttar pradesh|bijnor",
+    "uttar pradesh|muzaffarnagar"
+  ],
+  "uttar pradesh|mirzapur": [
+    "uttar pradesh|sonbhadra",
+    "uttar pradesh|chandauli",
+    "madhya pradesh|singrauli",
+    "madhya pradesh|rewa",
+    "uttar pradesh|allahabad",
+    "uttar pradesh|sant ravi das nagar",
+    "uttar pradesh|varanasi"
+  ],
+  "uttar pradesh|moradabad": [
+    "uttar pradesh|sambhal",
+    "uttar pradesh|amroha",
+    "uttar pradesh|rampur",
+    "uttarakhand|udham singh nagar",
+    "uttar pradesh|bijnor"
+  ],
+  "uttar pradesh|muzaffarnagar": [
+    "uttar pradesh|meerut",
+    "uttar pradesh|baghpat",
+    "uttar pradesh|bijnor",
+    "uttar pradesh|shamli",
+    "uttarakhand|hardwar",
+    "uttar pradesh|saharanpur"
+  ],
+  "uttar pradesh|pilibhit": [
+    "uttar pradesh|shahjahanpur",
+    "uttar pradesh|lakhimpur kheri",
+    "uttar pradesh|bareilly",
+    "uttarakhand|udham singh nagar"
+  ],
+  "uttar pradesh|pratapgarh": [
+    "uttar pradesh|allahabad",
+    "uttar pradesh|kaushambi",
+    "uttar pradesh|jaunpur",
+    "uttar pradesh|fatehpur",
+    "uttar pradesh|rae bareli",
+    "uttar pradesh|sultanpur",
+    "uttar pradesh|amethi"
+  ],
+  "uttar pradesh|rae bareli": [
+    "uttar pradesh|kaushambi",
+    "uttar pradesh|fatehpur",
+    "uttar pradesh|pratapgarh",
+    "uttar pradesh|amethi",
+    "uttar pradesh|unnao",
+    "uttar pradesh|lucknow",
+    "uttar pradesh|barabanki"
+  ],
+  "uttar pradesh|rampur": [
+    "uttar pradesh|budaun",
+    "uttar pradesh|sambhal",
+    "uttar pradesh|bareilly",
+    "uttar pradesh|moradabad",
+    "uttarakhand|udham singh nagar"
+  ],
+  "uttar pradesh|saharanpur": [
+    "haryana|karnal",
+    "haryana|kurukshetra",
+    "uttar pradesh|muzaffarnagar",
+    "uttar pradesh|shamli",
+    "uttarakhand|hardwar",
+    "haryana|yamunanagar",
+    "uttarakhand|dehradun",
+    "himachal pradesh|sirmaur"
+  ],
+  "uttar pradesh|sambhal": [
+    "uttar pradesh|budaun",
+    "uttar pradesh|aligarh",
+    "uttar pradesh|bulandshahr",
+    "uttar pradesh|amroha",
+    "uttar pradesh|rampur",
+    "uttar pradesh|moradabad"
+  ],
+  "uttar pradesh|sant kabir nagar": [
+    "uttar pradesh|ambedkar nagar",
+    "uttar pradesh|basti",
+    "uttar pradesh|siddharth nagar",
+    "uttar pradesh|gorakhpur",
+    "uttar pradesh|maharajganj"
+  ],
+  "uttar pradesh|sant ravi das nagar": [
+    "uttar pradesh|mirzapur",
+    "uttar pradesh|allahabad",
+    "uttar pradesh|varanasi",
+    "uttar pradesh|jaunpur"
+  ],
+  "uttar pradesh|shahjahanpur": [
+    "uttar pradesh|hardoi",
+    "uttar pradesh|farrukhabad",
+    "uttar pradesh|budaun",
+    "uttar pradesh|lakhimpur kheri",
+    "uttar pradesh|bareilly",
+    "uttar pradesh|pilibhit"
+  ],
+  "uttar pradesh|shamli": [
+    "haryana|panipat",
+    "haryana|karnal",
+    "uttar pradesh|baghpat",
+    "uttar pradesh|muzaffarnagar",
+    "uttar pradesh|saharanpur"
+  ],
+  "uttar pradesh|shravasti": [
+    "uttar pradesh|gonda",
+    "uttar pradesh|balrampur",
+    "uttar pradesh|bahraich"
+  ],
+  "uttar pradesh|siddharth nagar": [
+    "uttar pradesh|sant kabir nagar",
+    "uttar pradesh|basti",
+    "uttar pradesh|gonda",
+    "uttar pradesh|balrampur",
+    "uttar pradesh|maharajganj"
+  ],
+  "uttar pradesh|sitapur": [
+    "uttar pradesh|lucknow",
+    "uttar pradesh|barabanki",
+    "uttar pradesh|hardoi",
+    "uttar pradesh|bahraich",
+    "uttar pradesh|lakhimpur kheri"
+  ],
+  "uttar pradesh|sonbhadra": [
+    "chhattisgarh|balrampur",
+    "jharkhand|garhwa",
+    "bihar|rohtas",
+    "bihar|kaimur",
+    "uttar pradesh|chandauli",
+    "madhya pradesh|singrauli",
+    "uttar pradesh|mirzapur"
+  ],
+  "uttar pradesh|sultanpur": [
+    "uttar pradesh|jaunpur",
+    "uttar pradesh|pratapgarh",
+    "uttar pradesh|amethi",
+    "uttar pradesh|ambedkar nagar",
+    "uttar pradesh|faizabad",
+    "uttar pradesh|azamgarh"
+  ],
+  "uttar pradesh|unnao": [
+    "uttar pradesh|kanpur nagar",
+    "uttar pradesh|fatehpur",
+    "uttar pradesh|rae bareli",
+    "uttar pradesh|lucknow",
+    "uttar pradesh|hardoi"
+  ],
+  "uttar pradesh|varanasi": [
+    "uttar pradesh|chandauli",
+    "uttar pradesh|mirzapur",
+    "uttar pradesh|sant ravi das nagar",
+    "uttar pradesh|jaunpur",
+    "uttar pradesh|ghazipur"
+  ],
+  "uttarakhand|almora": [
+    "uttarakhand|pithoragarh",
+    "uttarakhand|champawat",
+    "uttarakhand|nainital",
+    "uttarakhand|garhwal",
+    "uttarakhand|bageshwar",
+    "uttarakhand|chamoli"
+  ],
+  "uttarakhand|bageshwar": [
+    "uttarakhand|pithoragarh",
+    "uttarakhand|almora",
+    "uttarakhand|chamoli"
+  ],
+  "uttarakhand|chamoli": [
+    "uttarakhand|pithoragarh",
+    "uttarakhand|almora",
+    "uttarakhand|garhwal",
+    "uttarakhand|bageshwar",
+    "uttarakhand|rudraprayag",
+    "uttarakhand|uttarkashi"
+  ],
+  "uttarakhand|champawat": [
+    "uttarakhand|pithoragarh",
+    "uttarakhand|udham singh nagar",
+    "uttarakhand|nainital",
+    "uttarakhand|almora"
+  ],
+  "uttarakhand|dehradun": [
+    "uttarakhand|garhwal",
+    "uttarakhand|hardwar",
+    "uttar pradesh|saharanpur",
+    "himachal pradesh|sirmaur",
+    "himachal pradesh|shimla",
+    "uttarakhand|tehri garhwal",
+    "uttarakhand|uttarkashi"
+  ],
+  "uttarakhand|garhwal": [
+    "uttarakhand|nainital",
+    "uttarakhand|almora",
+    "uttar pradesh|bijnor",
+    "uttarakhand|hardwar",
+    "uttarakhand|dehradun",
+    "uttarakhand|tehri garhwal",
+    "uttarakhand|chamoli",
+    "uttarakhand|rudraprayag"
+  ],
+  "uttarakhand|hardwar": [
+    "uttarakhand|garhwal",
+    "uttar pradesh|bijnor",
+    "uttar pradesh|muzaffarnagar",
+    "uttar pradesh|saharanpur",
+    "uttarakhand|dehradun"
+  ],
+  "uttarakhand|nainital": [
+    "uttarakhand|udham singh nagar",
+    "uttarakhand|champawat",
+    "uttarakhand|almora",
+    "uttarakhand|garhwal",
+    "uttar pradesh|bijnor"
+  ],
+  "uttarakhand|pithoragarh": [
+    "uttarakhand|champawat",
+    "uttarakhand|almora",
+    "uttarakhand|bageshwar",
+    "uttarakhand|chamoli"
+  ],
+  "uttarakhand|rudraprayag": [
+    "uttarakhand|garhwal",
+    "uttarakhand|tehri garhwal",
+    "uttarakhand|chamoli",
+    "uttarakhand|uttarkashi"
+  ],
+  "uttarakhand|tehri garhwal": [
+    "uttarakhand|garhwal",
+    "uttarakhand|dehradun",
+    "uttarakhand|rudraprayag",
+    "uttarakhand|uttarkashi"
+  ],
+  "uttarakhand|udham singh nagar": [
+    "uttar pradesh|bareilly",
+    "uttar pradesh|pilibhit",
+    "uttar pradesh|rampur",
+    "uttar pradesh|moradabad",
+    "uttarakhand|champawat",
+    "uttarakhand|nainital",
+    "uttar pradesh|bijnor"
+  ],
+  "uttarakhand|uttarkashi": [
+    "uttarakhand|dehradun",
+    "himachal pradesh|shimla",
+    "uttarakhand|tehri garhwal",
+    "uttarakhand|chamoli",
+    "uttarakhand|rudraprayag",
+    "himachal pradesh|kinnaur"
+  ],
+  "west bengal|alipurduar": [
+    "west bengal|koch bihar",
+    "assam|kokrajhar",
+    "west bengal|jalpaiguri"
+  ],
+  "west bengal|bankura": [
+    "west bengal|pashchim medinipur",
+    "west bengal|hugli",
+    "west bengal|puruliya",
+    "west bengal|barddhaman"
+  ],
+  "west bengal|barddhaman": [
+    "west bengal|hugli",
+    "west bengal|bankura",
+    "west bengal|puruliya",
+    "west bengal|nadia",
+    "jharkhand|dhanbad",
+    "jharkhand|jamtara",
+    "west bengal|birbhum",
+    "west bengal|murshidabad"
+  ],
+  "west bengal|birbhum": [
+    "west bengal|barddhaman",
+    "jharkhand|jamtara",
+    "west bengal|murshidabad",
+    "jharkhand|dumka",
+    "jharkhand|pakur"
+  ],
+  "west bengal|dakshin dinajpur": [
+    "west bengal|maldah",
+    "west bengal|uttar dinajpur"
+  ],
+  "west bengal|darjiling": [
+    "west bengal|uttar dinajpur",
+    "bihar|kishanganj",
+    "west bengal|jalpaiguri",
+    "sikkim|east sikkim",
+    "sikkim|south sikkim",
+    "sikkim|west sikkim"
+  ],
+  "west bengal|haora": [
+    "west bengal|purba medinipur",
+    "west bengal|south 24 parganas",
+    "west bengal|pashchim medinipur",
+    "west bengal|north 24 parganas",
+    "west bengal|kolkata",
+    "west bengal|hugli"
+  ],
+  "west bengal|hugli": [
+    "west bengal|pashchim medinipur",
+    "west bengal|north 24 parganas",
+    "west bengal|haora",
+    "west bengal|bankura",
+    "west bengal|barddhaman",
+    "west bengal|nadia"
+  ],
+  "west bengal|jalpaiguri": [
+    "west bengal|koch bihar",
+    "west bengal|alipurduar",
+    "west bengal|darjiling"
+  ],
+  "west bengal|koch bihar": [
+    "assam|dhubri",
+    "assam|kokrajhar",
+    "west bengal|alipurduar",
+    "west bengal|jalpaiguri"
+  ],
+  "west bengal|kolkata": [
+    "west bengal|south 24 parganas",
+    "west bengal|north 24 parganas",
+    "west bengal|haora"
+  ],
+  "west bengal|maldah": [
+    "west bengal|murshidabad",
+    "jharkhand|sahibganj",
+    "west bengal|dakshin dinajpur",
+    "bihar|katihar",
+    "west bengal|uttar dinajpur"
+  ],
+  "west bengal|murshidabad": [
+    "west bengal|barddhaman",
+    "west bengal|nadia",
+    "west bengal|birbhum",
+    "jharkhand|pakur",
+    "jharkhand|sahibganj",
+    "west bengal|maldah"
+  ],
+  "west bengal|nadia": [
+    "west bengal|north 24 parganas",
+    "west bengal|hugli",
+    "west bengal|barddhaman",
+    "west bengal|murshidabad"
+  ],
+  "west bengal|north 24 parganas": [
+    "west bengal|south 24 parganas",
+    "west bengal|haora",
+    "west bengal|kolkata",
+    "west bengal|hugli",
+    "west bengal|nadia"
+  ],
+  "west bengal|pashchim medinipur": [
+    "odisha|baleshwar",
+    "odisha|mayurbhanj",
+    "west bengal|purba medinipur",
+    "west bengal|haora",
+    "jharkhand|purbi singhbhum",
+    "west bengal|hugli",
+    "west bengal|bankura",
+    "west bengal|puruliya"
+  ],
+  "west bengal|purba medinipur": [
+    "odisha|baleshwar",
+    "west bengal|pashchim medinipur",
+    "west bengal|haora"
+  ],
+  "west bengal|puruliya": [
+    "west bengal|pashchim medinipur",
+    "jharkhand|saraikela-kharsawan",
+    "jharkhand|purbi singhbhum",
+    "west bengal|bankura",
+    "west bengal|barddhaman",
+    "jharkhand|ranchi",
+    "jharkhand|ramgarh",
+    "jharkhand|bokaro",
+    "jharkhand|dhanbad"
+  ],
+  "west bengal|south 24 parganas": [
+    "west bengal|north 24 parganas",
+    "west bengal|haora",
+    "west bengal|kolkata"
+  ],
+  "west bengal|uttar dinajpur": [
+    "west bengal|maldah",
+    "west bengal|dakshin dinajpur",
+    "bihar|katihar",
+    "bihar|purnia",
+    "bihar|kishanganj",
+    "west bengal|darjiling"
+  ]
+}
