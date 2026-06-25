@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Chaturvedy"
+    given-names: "Aaditya"
+  - family-names: "Gururajan"
+    given-names: "Bhargavi"
+title: "TerraYield-ML: Regional Crop Yield Hindcasting Engine (TERRA)"
+version: 1.0.0
+date-released: 2026-06-23
+url: "https://github.com/AadityaChaturvedy/TerraYield-ML"
+repository-code: "https://github.com/AadityaChaturvedy/TerraYield-ML"
+license: "MIT"
+keywords:
+  - crop yield hindcasting
+  - machine learning
+  - remote sensing
+  - earth engine
+  - smart agriculture
