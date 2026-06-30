@@ -95,6 +95,14 @@ def run_shap_analysis(crop_name, output_dir):
     explainer = shap.TreeExplainer(model)
     shap_values = explainer(X)
     
+    # Print top 15 features by mean absolute SHAP value
+    mean_abs_shap = np.abs(shap_values.values).mean(0)
+    top_indices = np.argsort(mean_abs_shap)[::-1][:15]
+    print("\nTop 15 features by mean absolute SHAP value:")
+    for idx in top_indices:
+        print(f"  - {X.columns[idx]}: {mean_abs_shap[idx]:.4f}")
+    print()
+    
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
     

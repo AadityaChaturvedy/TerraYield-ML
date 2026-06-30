@@ -38,8 +38,7 @@ def main():
         include_interactions=False,
         include_yield_trend=False,
         include_lag3=True,
-        include_phenology=True,
-        include_sensor_flag=True
+        include_phenology=True
     )
     
     # Check if phenology features were created

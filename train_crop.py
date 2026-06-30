@@ -195,44 +195,72 @@ def main():
         cv_best_iters['cb'].append(preds['cb']['best_iter'])
 
         # Robust Blend Stacking
-        p_ensemble = 0.59 * p_xgb + 0.30 * p_lgb + 0.11 * p_cb
+        p_ensemble = 0.10 * p_xgb + 0.10 * p_lgb + 0.80 * p_cb
 
         r2_xgb = r2_score(y_test, p_xgb)
         r2_lgb = r2_score(y_test, p_lgb)
         r2_cb = r2_score(y_test, p_cb)
         r2_ens = r2_score(y_test, p_ensemble)
 
+        rmse_xgb = np.sqrt(mean_squared_error(y_test, p_xgb))
+        mae_xgb = mean_absolute_error(y_test, p_xgb)
+        rmse_lgb = np.sqrt(mean_squared_error(y_test, p_lgb))
+        mae_lgb = mean_absolute_error(y_test, p_lgb)
         rmse_cb = np.sqrt(mean_squared_error(y_test, p_cb))
+        mae_cb = mean_absolute_error(y_test, p_cb)
         rmse_ens = np.sqrt(mean_squared_error(y_test, p_ensemble))
         mae_ens = mean_absolute_error(y_test, p_ensemble)
 
         print(f"  Fold {fold_idx+1} | Test Period: {test_years.min()}-{test_years.max()} | CatBoost R²: {r2_cb:.4f} | CatBoost RMSE: {rmse_cb:.4f}")
         print(f"  Fold {fold_idx+1} | Test Period: {test_years.min()}-{test_years.max()} | Ensemble R²: {r2_ens:.4f} | Ensemble RMSE: {rmse_ens:.4f}")
 
+        # ponytail: collect all model performance metrics to calculate averages in summary
         cv_results.append({
             'fold': fold_idx+1,
             'xgb_r2': r2_xgb,
+            'xgb_rmse': rmse_xgb,
+            'xgb_mae': mae_xgb,
             'lgb_r2': r2_lgb,
+            'lgb_rmse': rmse_lgb,
+            'lgb_mae': mae_lgb,
             'cb_r2': r2_cb,
+            'cb_rmse': rmse_cb,
+            'cb_mae': mae_cb,
             'ens_r2': r2_ens,
             'ens_rmse': rmse_ens,
             'ens_mae': mae_ens
         })
 
     avg_xgb_r2 = np.mean([r['xgb_r2'] for r in cv_results])
+    std_xgb_r2 = np.std([r['xgb_r2'] for r in cv_results], ddof=1)
+    avg_xgb_rmse = np.mean([r['xgb_rmse'] for r in cv_results])
+    avg_xgb_mae = np.mean([r['xgb_mae'] for r in cv_results])
+    
     avg_lgb_r2 = np.mean([r['lgb_r2'] for r in cv_results])
+    std_lgb_r2 = np.std([r['lgb_r2'] for r in cv_results], ddof=1)
+    avg_lgb_rmse = np.mean([r['lgb_rmse'] for r in cv_results])
+    avg_lgb_mae = np.mean([r['lgb_mae'] for r in cv_results])
+    
     avg_cb_r2 = np.mean([r['cb_r2'] for r in cv_results])
+    std_cb_r2 = np.std([r['cb_r2'] for r in cv_results], ddof=1)
+    avg_cb_rmse = np.mean([r['cb_rmse'] for r in cv_results])
+    avg_cb_mae = np.mean([r['cb_mae'] for r in cv_results])
+    
     avg_ens_r2 = np.mean([r['ens_r2'] for r in cv_results])
+    std_ens_r2 = np.std([r['ens_r2'] for r in cv_results], ddof=1)
     avg_rmse = np.mean([r['ens_rmse'] for r in cv_results])
     avg_mae = np.mean([r['ens_mae'] for r in cv_results])
 
     print("\n" + "="*80)
     print(f"CROSS-VALIDATION PERFORMANCE SUMMARY")
     print("="*80)
-    print(f"Average XGBoost R²:  {avg_xgb_r2:.4f}")
-    print(f"Average LightGBM R²: {avg_lgb_r2:.4f}")
-    print(f"Average CatBoost R²: {avg_cb_r2:.4f}")
-    print(f"Average Ensemble R²: {avg_ens_r2:.4f} | RMSE = {avg_rmse:.4f} | MAE = {avg_mae:.4f}")
+    for fold in cv_results:
+        print(f"Fold {fold['fold']} | XGB R²: {fold['xgb_r2']:.4f} | LGB R²: {fold['lgb_r2']:.4f} | CB R²: {fold['cb_r2']:.4f} | Ens R²: {fold['ens_r2']:.4f}")
+    print("-"*80)
+    print(f"Average XGBoost   R²: {avg_xgb_r2:.4f} ± {std_xgb_r2:.4f} | RMSE = {avg_xgb_rmse:.4f} | MAE = {avg_xgb_mae:.4f}")
+    print(f"Average LightGBM  R²: {avg_lgb_r2:.4f} ± {std_lgb_r2:.4f} | RMSE = {avg_lgb_rmse:.4f} | MAE = {avg_lgb_mae:.4f}")
+    print(f"Average CatBoost  R²: {avg_cb_r2:.4f} ± {std_cb_r2:.4f} | RMSE = {avg_cb_rmse:.4f} | MAE = {avg_cb_mae:.4f}")
+    print(f"Average Ensemble  R²: {avg_ens_r2:.4f} ± {std_ens_r2:.4f} | RMSE = {avg_rmse:.4f} | MAE = {avg_mae:.4f}")
 
     # Step 3: Train final models on full dataset for inference
     avg_cb_iters = int(np.round(np.mean(cv_best_iters['cb'])))
@@ -304,9 +332,9 @@ def main():
     lgb_final.booster_.save_model(str(lgb_path))
 
     ensemble_weights = {
-        "xgb": 0.59,
-        "lgb": 0.30,
-        "cb": 0.11,
+        "xgb": 0.10,
+        "lgb": 0.10,
+        "cb": 0.80,
         "features": list(features),
         "target_col": target_col
     }
