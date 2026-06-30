@@ -166,10 +166,10 @@ We executed a hyperparameter optimization using **Optuna** over the Out-of-Time 
 
 | Model | Fold 1 R² (2017-18) | Fold 2 R² (2019-20) | Fold 3 R² (2021-22) | **Average R²** | **Average RMSE** | **Average MAE** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **XGBoost** (Baseline) | 0.825 | 0.835 | 0.830 | **0.830** | - | - |
-| **LightGBM** (Baseline) | 0.871 | 0.865 | 0.853 | **0.863** | - | - |
-| **CatBoost** (Baseline) | 0.876 | 0.872 | 0.852 | **0.866** | - | - |
-| **Weighted Ensemble** | 0.876 | 0.871 | 0.852 | **0.866** | **0.435** | **0.311** |
+| **XGBoost** (Baseline) | 0.851 | 0.826 | 0.828 | **0.835** | **0.484** | **0.350** |
+| **LightGBM** (Baseline) | 0.872 | 0.867 | 0.841 | **0.860** | **0.445** | **0.320** |
+| **CatBoost** (Baseline) | 0.886 | 0.868 | 0.842 | **0.865** | **0.436** | **0.312** |
+| **Weighted Ensemble** | 0.885 | 0.867 | 0.844 | **0.865** | **0.436** | **0.312** |
 
 > [!TIP]
 > **Why Wheat Performs Better**: Rabi Wheat is heavily irrigated in India's Indo-Gangetic plains. The irrigation buffers the crop against localized rainfall shocks, producing a cleaner, highly predictable signal for the climate variables (soil moisture and temperature) compared to monsoon-dependent Kharif Rice.
@@ -434,6 +434,19 @@ python train_crop.py [crop_profile] [options]
 PYTHONPATH=. python train_crop.py rabi_wheat \
   --include_district --include_ext_months --include_soil_l1 --include_lag3
 ```
+
+---
+
+### 2. Hyperparameter Tuning (`tune_rice_optuna.py`)
+To run the Optuna hyperparameter optimization for Kharif Rice:
+* **Fast Demo Mode** (30 trials CatBoost, 20 trials XGBoost, 20 trials LightGBM):
+  ```bash
+  PYTHONPATH=. python tune_rice_optuna.py
+  ```
+* **Full Tuning Mode** (100 trials CatBoost, 80 trials XGBoost, 80 trials LightGBM - replicates paper parameters):
+  ```bash
+  PYTHONPATH=. python tune_rice_optuna.py --full
+  ```
 
 ---
 

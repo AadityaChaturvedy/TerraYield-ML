@@ -3,6 +3,7 @@ Optuna hyperparameter optimization script for Kharif Rice.
 Runs focused searches on XGBoost, LightGBM, and CatBoost
 using chronological time-series cross-validation.
 """
+import argparse
 import optuna
 import numpy as np
 import pandas as pd
@@ -22,6 +23,14 @@ optuna.logging.set_verbosity(optuna.logging.WARNING)
 np.random.seed(42)
 
 def main():
+    parser = argparse.ArgumentParser(description="Optuna tuning for Kharif Rice.")
+    parser.add_argument("--full", action="store_true", help="Run full search with 100/80/80 trials instead of 30/20/20.")
+    args = parser.parse_args()
+
+    cb_trials = 100 if args.full else 30
+    xgb_trials = 80 if args.full else 20
+    lgb_trials = 80 if args.full else 20
+
     crop_name = "kharif_rice"
     profile = CROP_PROFILES[crop_name]
     target_col = profile["target_col"]
@@ -55,8 +64,8 @@ def main():
 
     cat_features_list = ["State", "District_mapped"]
 
-    # 1. OPTUNA: CatBoost (30 trials)
-    print("\n>>> Tuning CatBoost (30 trials)...")
+    # 1. OPTUNA: CatBoost
+    print(f"\n>>> Tuning CatBoost ({cb_trials} trials)...")
     def objective_cb(trial):
         params = {
             'iterations': trial.suggest_int('iterations', 200, 1000),
@@ -91,13 +100,13 @@ def main():
         return np.mean(fold_r2s)
 
     study_cb = optuna.create_study(direction='maximize')
-    study_cb.optimize(objective_cb, n_trials=30)
+    study_cb.optimize(objective_cb, n_trials=cb_trials)
     best_cb = study_cb.best_params
     print(f"  Best CatBoost R²: {study_cb.best_value:.4f}")
     print(f"  Best parameters: {best_cb}")
 
-    # 2. OPTUNA: XGBoost (20 trials)
-    print("\n>>> Tuning XGBoost (20 trials)...")
+    # 2. OPTUNA: XGBoost
+    print(f"\n>>> Tuning XGBoost ({xgb_trials} trials)...")
     def objective_xgb(trial):
         params = {
             'n_estimators': trial.suggest_int('n_estimators', 200, 1000),
@@ -132,13 +141,13 @@ def main():
         return np.mean(fold_r2s)
 
     study_xgb = optuna.create_study(direction='maximize')
-    study_xgb.optimize(objective_xgb, n_trials=20)
+    study_xgb.optimize(objective_xgb, n_trials=xgb_trials)
     best_xgb = study_xgb.best_params
     print(f"  Best XGBoost R²: {study_xgb.best_value:.4f}")
     print(f"  Best parameters: {best_xgb}")
 
-    # 3. OPTUNA: LightGBM (20 trials)
-    print("\n>>> Tuning LightGBM (20 trials)...")
+    # 3. OPTUNA: LightGBM
+    print(f"\n>>> Tuning LightGBM ({lgb_trials} trials)...")
     def objective_lgb(trial):
         params = {
             'n_estimators': trial.suggest_int('n_estimators', 200, 1000),
@@ -175,7 +184,7 @@ def main():
         return np.mean(fold_r2s)
 
     study_lgb = optuna.create_study(direction='maximize')
-    study_lgb.optimize(objective_lgb, n_trials=20)
+    study_lgb.optimize(objective_lgb, n_trials=lgb_trials)
     best_lgb = study_lgb.best_params
     print(f"  Best LightGBM R²: {study_lgb.best_value:.4f}")
     print(f"  Best parameters: {best_lgb}")
