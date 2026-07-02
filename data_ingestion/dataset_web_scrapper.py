@@ -57,7 +57,7 @@ SEASON_CODES = ["R", "K", "A", "W", "S", "Y"]
 SEASON_LABELS = {
     "R": "Rabi",
     "K": "Kharif",
-    "A": "Autum",
+    "A": "Autumn",
     "W": "Winter",
     "S": "Summer",
     "Y": "Year",
@@ -65,7 +65,7 @@ SEASON_LABELS = {
 SEASON_NAME_MAP = {
     "rabi": "Rabi",
     "kharif": "Kharif",
-    "autumn": "Autum",
+    "autumn": "Autumn",
     "summer": "Summer",
     "winter": "Winter",
     "year": "Year",
@@ -410,7 +410,7 @@ def pivot_season_data(all_frames: list[pd.DataFrame]) -> pd.DataFrame:
 
     # Build requested column order: Season_Metric
     ordered_columns = []
-    for season in ["Rabi", "Kharif", "Autum", "Winter", "Summer", "Year"]:
+    for season in ["Rabi", "Kharif", "Autumn", "Winter", "Summer", "Year"]:
         for metric in ["Area", "Production", "Yield"]:
             ordered_columns.append((metric, season))
 

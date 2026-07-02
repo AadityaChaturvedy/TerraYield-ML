@@ -21,18 +21,19 @@ APPLY_CROPLAND_MASK = True
 
 # Set this to True if you uploaded the GeoJSON to GEE Assets (RECOMMENDED for large files)
 # If False, the script will try to convert the local GeoJSON directly (might fail if >10MB)
-USE_GEE_ASSET = False
+USE_GEE_ASSET = os.environ.get('GEE_USE_ASSET', 'False').lower() in ('true', '1', 'yes')
 # If USE_GEE_ASSET = True, replace this with your GEE asset ID
-GEE_ASSET_ID = 'projects/your-project/assets/india_district_administered'
+GEE_PROJECT = os.environ.get('GEE_PROJECT', 'your-gcp-project-id')
+GEE_ASSET_ID = os.environ.get('GEE_ASSET_ID', f'projects/{GEE_PROJECT}/assets/india_district_administered')
 
 def initialize_gee():
     """Authenticates and initializes Google Earth Engine."""
     try:
-        ee.Initialize(project='your-project-id') # Update if you have a specific GCP project
+        ee.Initialize(project=GEE_PROJECT)
     except ee.EEException:
         print("Authenticating to Google Earth Engine...")
         ee.Authenticate()
-        ee.Initialize()
+        ee.Initialize(project=GEE_PROJECT)
 
 def get_feature_collection():
     """Loads the district boundaries into GEE."""

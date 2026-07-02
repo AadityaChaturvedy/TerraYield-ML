@@ -1,5 +1,7 @@
 # TerraYield-ML: Regional Crop Yield Hindcasting Engine
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.21126177.svg)](https://doi.org/10.5281/zenodo.21126177) **(DOI: [10.5281/zenodo.21126177](https://doi.org/10.5281/zenodo.21126177))**
+
 TerraYield-ML is a production-grade, highly reproducible machine learning framework designed for district-level crop yield hindcasting and in-season nowcasting across India. By integrating multi-source climatology (ERA5-Land temperature, CHIRPS precipitation, and volumetric soil moisture) with satellite remote sensing indices (MODIS NDVI/EVI) and historical crop statistics, the framework delivers operational-grade yield estimations.
 
 ---
@@ -300,7 +302,7 @@ TerraYield-ML/
 │   └── spatial_accuracy_hexbin.png
 ├── data/
 │   ├── raw/                    # Web-scraped DESAgri CSVs and GEE boundaries
-│   └── processed/              # Boundary conversion weights & neighbors maps
+│   └── processed/              # Mappings and final harmonized datasets (crop CSVs, climate panel, crosswalk)
 ├── data_ingestion/             # Collection & harmonization scripts
 │   ├── dataset_web_scrapper.py # Scrapes crop yields from DESAgri portal
 │   ├── apply_weights_to_exports.py # Historical boundary weighting to modern maps
@@ -486,7 +488,7 @@ We evaluate monthly phenological stress progression and feature correlation stru
 
 ## How to Cite
 
-If you use the TERRA pipeline, datasets, or model profiles in your research, please cite our software and manuscript as follows:
+If you use the TERRA pipeline, software, or model profiles in your research, please cite the code repository:
 
 ```bibtex
 @software{terra_yield_ml_2026,
@@ -495,5 +497,20 @@ If you use the TERRA pipeline, datasets, or model profiles in your research, ple
   year         = {2026},
   version      = {1.0.0},
   url          = {https://github.com/AadityaChaturvedy/TerraYield-ML}
+}
+```
+
+If you use the harmonized dataset panel, please cite the data release:
+
+```bibtex
+@dataset{chaturvedy_2026_terrayield_ml,
+  author       = {Chaturvedy, Aaditya and G, Bhargavi},
+  title        = {A Harmonized District-Level Crop Yield and Climatology Panel for India, 1997–2022},
+  month        = jul,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.21126177},
+  url          = {https://doi.org/10.5281/zenodo.21126177}
 }
 ```

@@ -126,4 +126,16 @@ district_mapping = {
     ("arunachal pradesh", "shi yomi"): "West Siang",
     ("arunachal pradesh", "siang"): "West Siang",
     ("arunachal pradesh", "upper dibang valley"): "Dibang Valley",
+    
+    # Assam (Step 1 additions)
+    ("assam", "bajali"): "Barpeta",
+    ("assam", "biswanath"): "Sonitpur",
+    ("assam", "charaideo"): "Sivasagar",
+    ("assam", "hojai"): "Nagaon",
+    ("assam", "majuli"): "Jorhat",
+    ("assam", "south salmara mancachar"): "Dhubri",
+    ("assam", "west karbi anglong"): "Karbi Anglong",
+
+    # Jammu and Kashmir (Step 1 additions)
+    ("jammu and kashmir", "leh"): "Leh (Ladakh)",
 }

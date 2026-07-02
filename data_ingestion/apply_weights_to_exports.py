@@ -23,7 +23,7 @@ def main():
     print(f"Found {len(crop_files)} raw crop files to process.")
     
     # Define columns
-    seasons = ["Rabi", "Kharif", "Autum", "Winter", "Summer", "Year"]
+    seasons = ["Rabi", "Kharif", "Autumn", "Winter", "Summer", "Year"]
     extensive_cols = []
     for s in seasons:
         extensive_cols.append(f"{s}_Area")

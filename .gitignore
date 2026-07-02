@@ -32,3 +32,9 @@ catboost_info/
 *.pdf
 ~$*.docx
 TerraYield_docx.md
+
+# Diagram source files
+*.drawio
+
+# Scratch/Render scripts
+scratch/render_mermaid.py
